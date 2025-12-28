@@ -1,253 +1,253 @@
-ðŸ“š Apunte Completo - FisiologÃ­a del Sistema Endocrino y Reproductor
+# 📚 Apunte Completo - Fisiología del Sistema Endocrino y Reproductor
 
 **QYF213 | Dr. Ricardo Ceriani**  
-Universidad de ValparaÃ­so
+Universidad de Valparaíso
 
-ðŸ“– PÃ¡ginas de referencia: 758-797 (Berne & Levy, 7ed) | CapÃ­tulos: 37, 40, 41, 42
+📖 Páginas de referencia: 758-797 (Berne & Levy, 7ed) | Capítulos: 37, 40, 41, 42
 
 ---
 
-## ðŸ“‘ Tabla de Contenidos
+## 📑 Tabla de Contenidos
 
 - [Sistema Endocrino - Generalidades](#-sistema-endocrino---generalidades)
-- [Hormonas y ClasificaciÃ³n](#-hormonas-mensajeros-quÃ­micos)
-- [Eje HipotÃ¡lamo-HipÃ³fisis](#-eje-hipotÃ¡lamo-hipÃ³fisis)
-- [Eje HipotÃ¡lamo-HipÃ³fisis-Tiroides](#-eje-hipotÃ¡lamo-hipÃ³fisis-tiroides)
-- [Eje HipotÃ¡lamo-HipÃ³fisis-Adrenal](#-eje-hipotÃ¡lamo-hipÃ³fisis-adrenal)
-- [DivisiÃ³n Celular](#-divisiÃ³n-celular)
+- [Hormonas y Clasificación](#-hormonas-mensajeros-químicos)
+- [Eje Hipotálamo-Hipófisis](#-eje-hipotálamo-hipófisis)
+- [Eje Hipotálamo-Hipófisis-Tiroides](#-eje-hipotálamo-hipófisis-tiroides)
+- [Eje Hipotálamo-Hipófisis-Adrenal](#-eje-hipotálamo-hipófisis-adrenal)
+- [División Celular](#-división-celular)
 - [Sistema Reproductor Masculino](#-sistema-reproductor-masculino)
 - [Sistema Reproductor Femenino](#-sistema-reproductor-femenino)
-- [FecundaciÃ³n](#-fecundaciÃ³n)
+- [Fecundación](#-fecundación)
 
 ---
 
-# ðŸ§¬ SISTEMA ENDOCRINO - Generalidades
+# 🧬 SISTEMA ENDOCRINO - Generalidades
 
-## Â¿QuÃ© es el Sistema Endocrino?
+## ¿Qué es el Sistema Endocrino?
 
-Sistema de **glÃ¡ndulas y tejidos** que regulan mÃºltiples Ã³rganos del organismo mediante la **producciÃ³n y liberaciÃ³n de hormonas** al torrente sanguÃ­neo.
+Sistema de **glándulas y tejidos** que regulan múltiples órganos del organismo mediante la **producción y liberación de hormonas** al torrente sanguíneo.
 
-## ðŸŽ¯ Funciones Principales del Sistema Endocrino
+## 🎯 Funciones Principales del Sistema Endocrino
 
-| FunciÃ³n | DescripciÃ³n |
+| Función | Descripción |
 |---------|-------------|
-| **Metabolismo** | RegulaciÃ³n del metabolismo y energÃ­a corporal |
+| **Metabolismo** | Regulación del metabolismo y energía corporal |
 | **Crecimiento** | Control del crecimiento y desarrollo |
-| **EstrÃ©s** | Manejo de la respuesta al estrÃ©s |
-| **Homeostasis** | Mantenimiento de presiÃ³n arterial, temperatura, etc. |
-| **RegulaciÃ³n** | Control de otros sistemas corporales |
-| **Inmunidad** | CoordinaciÃ³n de respuesta inmunitaria |
-| **Ritmo circadiano** | Control de ciclos de sueÃ±o-vigilia |
+| **Estrés** | Manejo de la respuesta al estrés |
+| **Homeostasis** | Mantenimiento de presión arterial, temperatura, etc. |
+| **Regulación** | Control de otros sistemas corporales |
+| **Inmunidad** | Coordinación de respuesta inmunitaria |
+| **Ritmo circadiano** | Control de ciclos de sueño-vigilia |
 
-> ðŸ’¡ **Homeostasis:** Estado de equilibrio entre todos los sistemas del cuerpo
+> 💡 **Homeostasis:** Estado de equilibrio entre todos los sistemas del cuerpo
 
-## ðŸ¥ GlÃ¡ndulas y Tejidos Endocrinos
+## 🏥 Glándulas y Tejidos Endocrinos
 
-### GlÃ¡ndulas Endocrinas (ProducciÃ³n hormonal exclusiva)
-
-```
-âœ“ HipÃ³fisis (Pituitaria)
-âœ“ Tiroides
-âœ“ Paratiroides
-âœ“ Suprarrenales (Adrenales)
-âœ“ Pineal
-```
-
-### Tejido Endocrino (FunciÃ³n mixta - no exclusivamente hormonal)
+### Glándulas Endocrinas (Producción hormonal exclusiva)
 
 ```
-âœ“ HipotÃ¡lamo
-âœ“ Timo
-âœ“ PÃ¡ncreas
-âœ“ Ovarios
-âœ“ TestÃ­culos
-âœ“ EstÃ³mago
-âœ“ HÃ­gado
-âœ“ Piel
+✓ Hipófisis (Pituitaria)
+✓ Tiroides
+✓ Paratiroides
+✓ Suprarrenales (Adrenales)
+✓ Pineal
+```
+
+### Tejido Endocrino (Función mixta - no exclusivamente hormonal)
+
+```
+✓ Hipotálamo
+✓ Timo
+✓ Páncreas
+✓ Ovarios
+✓ Testículos
+✓ Estómago
+✓ Hígado
+✓ Piel
 ```
 
 ---
 
-# ðŸ’Š HORMONAS: Mensajeros QuÃ­micos
+# 💊 HORMONAS: Mensajeros Químicos
 
-## DefiniciÃ³n
+## Definición
 
-**Sustancias quÃ­micas** que viajan a travÃ©s del torrente sanguÃ­neo hacia tejidos y Ã³rganos blanco (diana) para regular sus funciones.
+**Sustancias químicas** que viajan a través del torrente sanguíneo hacia tejidos y órganos blanco (diana) para regular sus funciones.
 
-## ClasificaciÃ³n por Solubilidad
+## Clasificación por Solubilidad
 
-### ðŸŒŠ Hormonas HidrofÃ­licas (Hidrosolubles)
+### 🌊 Hormonas Hidrofílicas (Hidrosolubles)
 
-**CaracterÃ­sticas estructurales:**
-- Derivadas de aminoÃ¡cidos
-- Hormonas peptÃ­dicas
+**Características estructurales:**
+- Derivadas de aminoácidos
+- Hormonas peptídicas
 
 **Propiedades:**
-- Secretadas mediante **exocitosis** (almacenadas en vesÃ­culas)
+- Secretadas mediante **exocitosis** (almacenadas en vesículas)
 - **NO atraviesan** la membrana celular
 - Requieren **receptores de membrana**
-- Principalmente receptores acoplados a **proteÃ­na G**
+- Principalmente receptores acoplados a **proteína G**
 
-**GlÃ¡ndulas productoras:**
-- HipÃ³fisis
-- Tiroides (hormonas tiroideas tienen caracterÃ­sticas mixtas)
+**Glándulas productoras:**
+- Hipófisis
+- Tiroides (hormonas tiroideas tienen características mixtas)
 
 **Ejemplos:**
 ```
-â†’ Insulina
-â†’ ADH (Vasopresina)
-â†’ Oxitocina
-â†’ TSH (Hormona estimulante de tiroides)
-â†’ FSH (Hormona folÃ­culo estimulante)
-â†’ LH (Hormona luteinizante)
-â†’ GH (Hormona de crecimiento)
-â†’ Prolactina
-â†’ ACTH
+→ Insulina
+→ ADH (Vasopresina)
+→ Oxitocina
+→ TSH (Hormona estimulante de tiroides)
+→ FSH (Hormona folículo estimulante)
+→ LH (Hormona luteinizante)
+→ GH (Hormona de crecimiento)
+→ Prolactina
+→ ACTH
 ```
 
-### ðŸ§ˆ Hormonas Liposolubles (LipÃ­dicas)
+### 🧈 Hormonas Liposolubles (Lipídicas)
 
-**CaracterÃ­sticas estructurales:**
-- Derivadas de lÃ­pidos
+**Características estructurales:**
+- Derivadas de lípidos
 - Hormonas esteroideas
 
 **Propiedades:**
-- Liberadas por **difusiÃ³n pasiva** (no se almacenan)
-- **SÃ atraviesan** la membrana celular
-- Circulan unidas a **proteÃ­nas transportadoras**
-- Receptores **intracelulares** (citosol o nÃºcleo)
-- Regulan **expresiÃ³n gÃ©nica** directamente
+- Liberadas por **difusión pasiva** (no se almacenan)
+- **SÍ atraviesan** la membrana celular
+- Circulan unidas a **proteínas transportadoras**
+- Receptores **intracelulares** (citosol o núcleo)
+- Regulan **expresión génica** directamente
 
-**GlÃ¡ndulas productoras:**
+**Glándulas productoras:**
 - Corteza suprarrenal
-- GÃ³nadas (ovarios y testÃ­culos)
+- Gónadas (ovarios y testículos)
 
 **Ejemplos:**
 ```
-â†’ Cortisol
-â†’ Aldosterona
-â†’ Testosterona
-â†’ EstrÃ³genos (Estradiol, Estrona)
-â†’ Progesterona
-â†’ DHEA
+→ Cortisol
+→ Aldosterona
+→ Testosterona
+→ Estrógenos (Estradiol, Estrona)
+→ Progesterona
+→ DHEA
 ```
 
-## Mecanismo de AcciÃ³n Comparado
+## Mecanismo de Acción Comparado
 
-| Aspecto | HidrofÃ­licas | Liposolubles |
+| Aspecto | Hidrofílicas | Liposolubles |
 |---------|--------------|--------------|
-| **Solubilidad** | Agua | LÃ­pidos |
-| **Transporte** | Libres en sangre | Unidas a proteÃ­nas |
-| **Atraviesan membrana** | NO | SÃ |
-| **Receptor** | Membrana plasmÃ¡tica | Intracelular |
-| **Mecanismo** | Segundo mensajero | ExpresiÃ³n gÃ©nica |
-| **Velocidad** | RÃ¡pida (minutos) | Lenta (horas) |
-| **DuraciÃ³n** | Corta | Prolongada |
+| **Solubilidad** | Agua | Lípidos |
+| **Transporte** | Libres en sangre | Unidas a proteínas |
+| **Atraviesan membrana** | NO | SÍ |
+| **Receptor** | Membrana plasmática | Intracelular |
+| **Mecanismo** | Segundo mensajero | Expresión génica |
+| **Velocidad** | Rápida (minutos) | Lenta (horas) |
+| **Duración** | Corta | Prolongada |
 
 ---
 
-# ðŸ”„ MECANISMOS DE REGULACIÃ“N HORMONAL
+# 🔄 MECANISMOS DE REGULACIÓN HORMONAL
 
-## RetroalimentaciÃ³n Negativa (Feedback Negativo)
+## Retroalimentación Negativa (Feedback Negativo)
 
-**Principio bÃ¡sico:**  
-La hormona secretada causa un efecto que **disminuye su propia producciÃ³n**.
+**Principio básico:**  
+La hormona secretada causa un efecto que **disminuye su propia producción**.
 
 ```
-        â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-        â”‚  EstÃ­mulo    â”‚
-        â””â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”˜
-               â†“
-        â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-        â”‚  GlÃ¡ndula A  â”‚
-        â””â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”˜
-               â†“
-        â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-        â”‚  Hormona     â”‚ â”€â”€â”€â”
-        â””â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”˜    â”‚
-               â†“             â”‚ Feedback (-)
-        â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”    â”‚
-        â”‚   Efecto     â”‚    â”‚
-        â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜    â”‚
-               â”‚             â”‚
-               â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-          Inhibe producciÃ³n
+        ┌──────────────┐
+        │  Estímulo    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │  Glándula A  │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │  Hormona     │ ───┐
+        └──────┬───────┘    │
+               ↓             │ Feedback (-)
+        ┌──────────────┐    │
+        │   Efecto     │    │
+        └──────────────┘    │
+               │             │
+               └─────────────┘
+          Inhibe producción
 ```
 
-**FunciÃ³n:** Mantener parÃ¡metros fisiolÃ³gicos dentro de lÃ­mites normales (homeostasis)
+**Función:** Mantener parámetros fisiológicos dentro de límites normales (homeostasis)
 
-**Ejemplo clÃ¡sico:**
-- â†‘ T3/T4 en sangre â†’ â†“ TSH â†’ â†“ producciÃ³n de T3/T4
+**Ejemplo clásico:**
+- ↑ T3/T4 en sangre → ↓ TSH → ↓ producción de T3/T4
 
 ---
 
-# ðŸ§  EJE HIPOTÃLAMO-HIPÃ“FISIS
+# 🧠 EJE HIPOTÁLAMO-HIPÓFISIS
 
-## Estructura y FunciÃ³n
+## Estructura y Función
 
-**Centro de control endocrino** que integra seÃ±ales del sistema nervioso con el sistema endocrino.
+**Centro de control endocrino** que integra señales del sistema nervioso con el sistema endocrino.
 
-### InformaciÃ³n que Recibe (del SNC):
-
-```
-â†’ PresiÃ³n arterial
-â†’ Volumen sanguÃ­neo
-â†’ Estado nutricional
-â†’ Temperatura corporal
-â†’ Ciclo luz-oscuridad
-â†’ EstrÃ©s emocional/fÃ­sico
-```
-
-### GlÃ¡ndulas que Controla:
+### Información que Recibe (del SNC):
 
 ```
-â†’ Tiroides
-â†’ GÃ³nadas (ovarios y testÃ­culos)
-â†’ GlÃ¡ndulas suprarrenales
-â†’ Crecimiento corporal
-â†’ Lactancia
+→ Presión arterial
+→ Volumen sanguíneo
+→ Estado nutricional
+→ Temperatura corporal
+→ Ciclo luz-oscuridad
+→ Estrés emocional/físico
+```
+
+### Glándulas que Controla:
+
+```
+→ Tiroides
+→ Gónadas (ovarios y testículos)
+→ Glándulas suprarrenales
+→ Crecimiento corporal
+→ Lactancia
 ```
 
 ---
 
-# ðŸŽ­ LA HIPÃ“FISIS: GlÃ¡ndula Maestra
+# 🎭 LA HIPÓFISIS: Glándula Maestra
 
-Dividida en **dos porciones** anatÃ³mica y funcionalmente diferentes:
+Dividida en **dos porciones** anatómica y funcionalmente diferentes:
 
-## ðŸ”µ NEUROHIPÃ“FISIS (HipÃ³fisis Posterior)
+## 🔵 NEUROHIPÓFISIS (Hipófisis Posterior)
 
-Almacena y libera hormonas **sintetizadas en el hipotÃ¡lamo**.
+Almacena y libera hormonas **sintetizadas en el hipotálamo**.
 
-### 1. ADH - Hormona AntidiurÃ©tica (Vasopresina)
+### 1. ADH - Hormona Antidiurética (Vasopresina)
 
 **Funciones principales:**
 
 | Sistema | Efecto |
 |---------|--------|
-| **RiÃ±Ã³n** | â†‘ ReabsorciÃ³n de agua |
-| **Vasos sanguÃ­neos** | VasoconstricciÃ³n |
-| **Resultado** | â†‘ Volumen sanguÃ­neo, â†‘ PresiÃ³n arterial |
+| **Riñón** | ↑ Reabsorción de agua |
+| **Vasos sanguíneos** | Vasoconstricción |
+| **Resultado** | ↑ Volumen sanguíneo, ↑ Presión arterial |
 
-**Mecanismo de acciÃ³n renal:**
+**Mecanismo de acción renal:**
 ```
-ADH â†’ Receptor V2R (tÃºbulo colector)
-    â†“
-ActivaciÃ³n vÃ­a AMPc
-    â†“
-â†‘ ExpresiÃ³n de ACUAPORINAS (AQP2)
-    â†“
-â†‘ Canales de agua en membrana
-    â†“
-â†‘ ReabsorciÃ³n de Hâ‚‚O
+ADH → Receptor V2R (túbulo colector)
+    ↓
+Activación vía AMPc
+    ↓
+↑ Expresión de ACUAPORINAS (AQP2)
+    ↓
+↑ Canales de agua en membrana
+    ↓
+↑ Reabsorción de H₂O
 ```
 
-**Mecanismo de acciÃ³n vascular:**
+**Mecanismo de acción vascular:**
 ```
-ADH â†’ Receptor V1R (mÃºsculo liso vascular)
-    â†“
-VasoconstricciÃ³n
-    â†“
-â†‘ PresiÃ³n arterial
+ADH → Receptor V1R (músculo liso vascular)
+    ↓
+Vasoconstricción
+    ↓
+↑ Presión arterial
 ```
 
 ### 2. OXITOCINA ("Hormona del Amor")
@@ -256,29 +256,29 @@ VasoconstricciÃ³n
 
 | Tejido | Efecto |
 |--------|--------|
-| **Ãštero** | ContracciÃ³n durante parto |
-| **GlÃ¡ndula mamaria** | EyecciÃ³n de leche |
-| **Sistema nervioso** | VinculaciÃ³n social/afectiva |
+| **Útero** | Contracción durante parto |
+| **Glándula mamaria** | Eyección de leche |
+| **Sistema nervioso** | Vinculación social/afectiva |
 
-**Mecanismo de acciÃ³n:**
+**Mecanismo de acción:**
 ```
-Oxitocina â†’ Receptor acoplado a ProteÃ­na G
-           â†“
-CÃ©lulas mioepiteliales (mama)
-MÃºsculo liso (Ãºtero)
-           â†“
-ContracciÃ³n
+Oxitocina → Receptor acoplado a Proteína G
+           ↓
+Células mioepiteliales (mama)
+Músculo liso (útero)
+           ↓
+Contracción
 ```
 
 ---
 
-## ðŸŸ¢ ADENOHIPÃ“FISIS (HipÃ³fisis Anterior)
+## 🟢 ADENOHIPÓFISIS (Hipófisis Anterior)
 
-### Hormonas HipotalÃ¡micas Reguladoras
+### Hormonas Hipotalámicas Reguladoras
 
-Estas hormonas viajan por el **sistema porta hipofisiario** hasta la adenohipÃ³fisis:
+Estas hormonas viajan por el **sistema porta hipofisiario** hasta la adenohipófisis:
 
-| Hormona HipotalÃ¡mica | Efecto en AdenohipÃ³fisis |
+| Hormona Hipotalámica | Efecto en Adenohipófisis |
 |---------------------|--------------------------|
 | **GnRH** (Hormona liberadora de gonadotropina) | Estimula LH y FSH |
 | **TRH** (Hormona liberadora de tirotropina) | Estimula TSH |
@@ -287,73 +287,73 @@ Estas hormonas viajan por el **sistema porta hipofisiario** hasta la adenohipÃ�
 | **Somatostatina** | Inhibe GH |
 | **Dopamina** | Inhibe Prolactina |
 
-### Hormonas Secretadas por AdenohipÃ³fisis
+### Hormonas Secretadas por Adenohipófisis
 
-| Hormona | Nombre Completo | Ã“rgano Diana | FunciÃ³n Principal |
+| Hormona | Nombre Completo | Órgano Diana | Función Principal |
 |---------|-----------------|--------------|-------------------|
 | **TSH** | Hormona estimulante de tiroides | Tiroides | Estimula T3 y T4 |
-| **ACTH** | Hormona adrenocorticÃ³tropa | Corteza adrenal | Estimula cortisol |
-| **FSH** | Hormona folÃ­culo estimulante | GÃ³nadas | GametogÃ©nesis |
-| **LH** | Hormona luteinizante | GÃ³nadas | EsteroidogÃ©nesis |
-| **GH** | Hormona de crecimiento | MÃºltiples | Crecimiento |
-| **Prolactina** | - | GlÃ¡ndula mamaria | ProducciÃ³n de leche |
+| **ACTH** | Hormona adrenocorticótropa | Corteza adrenal | Estimula cortisol |
+| **FSH** | Hormona folículo estimulante | Gónadas | Gametogénesis |
+| **LH** | Hormona luteinizante | Gónadas | Esteroidogénesis |
+| **GH** | Hormona de crecimiento | Múltiples | Crecimiento |
+| **Prolactina** | - | Glándula mamaria | Producción de leche |
 
 ---
 
-# ðŸ¦‹ EJE HIPOTÃLAMO-HIPÃ“FISIS-TIROIDES
+# 🦋 EJE HIPOTÁLAMO-HIPÓFISIS-TIROIDES
 
 ## Cascada Hormonal
 
 ```
-    HIPOTÃLAMO
-        â†“ TRH
-    ADENOHIPÃ“FISIS
-        â†“ TSH
+    HIPOTÁLAMO
+        ↓ TRH
+    ADENOHIPÓFISIS
+        ↓ TSH
     TIROIDES
-        â†“ T4 (90%) y T3 (10%)
+        ↓ T4 (90%) y T3 (10%)
     TEJIDOS DIANA
 ```
 
-## ðŸ“ AnatomÃ­a de la GlÃ¡ndula Tiroides
+## 📍 Anatomía de la Glándula Tiroides
 
-**LocalizaciÃ³n:** Anterolateral a la trÃ¡quea
+**Localización:** Anterolateral a la tráquea
 
 **Estructura:**
-- Dividida en **dos lÃ³bulos**
+- Dividida en **dos lóbulos**
 - Rico aporte vascular
-- Organizada en **folÃ­culos tiroideos** (unidad funcional)
+- Organizada en **folículos tiroideos** (unidad funcional)
 
-**FolÃ­culo tiroideo:**
+**Folículo tiroideo:**
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚   CÃ©lulas foliculares   â”‚ â† Producen hormonas
-â”‚   (rodean el coloide)   â”‚
-â”‚                         â”‚
-â”‚    â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•—      â”‚
-â”‚    â•‘   COLOIDE   â•‘      â”‚ â† Tiroglobulina + hormonas
-â”‚    â•‘ (Gel proteico)â•‘    â”‚
-â”‚    â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•      â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+┌─────────────────────────┐
+│   Células foliculares   │ ← Producen hormonas
+│   (rodean el coloide)   │
+│                         │
+│    ╔═════════════╗      │
+│    ║   COLOIDE   ║      │ ← Tiroglobulina + hormonas
+│    ║ (Gel proteico)║    │
+│    ╚═════════════╝      │
+└─────────────────────────┘
 ```
 
-## SÃ­ntesis de Hormonas Tiroideas
+## Síntesis de Hormonas Tiroideas
 
 ### Componentes Necesarios:
 
-1. **Tirosina** (aminoÃ¡cido)
-2. **Tiroglobulina** (proteÃ­na grande)
+1. **Tirosina** (aminoácido)
+2. **Tiroglobulina** (proteína grande)
 3. **Yodo** (elemento esencial de la dieta)
 
-### Proceso de SÃ­ntesis:
+### Proceso de Síntesis:
 
-**Paso 1: CaptaciÃ³n de yodo**
+**Paso 1: Captación de yodo**
 ```
-Yodo dietÃ©tico (Iâ») â†’ CÃ©lula folicular (simporte Naâº/Iâ»)
+Yodo dietético (I⁻) → Célula folicular (simporte Na⁺/I⁻)
 ```
 
-**Paso 2: YodaciÃ³n**
+**Paso 2: Yodación**
 ```
-Tirosina en tiroglobulina + Iâ» â†’ MIT (monoiodotirosina) + DIT (diiodotirosina)
+Tirosina en tiroglobulina + I⁻ → MIT (monoiodotirosina) + DIT (diiodotirosina)
 ```
 
 **Paso 3: Acoplamiento**
@@ -362,10 +362,10 @@ MIT + DIT = T3 (Triyodotironina - 3 yodos)
 DIT + DIT = T4 (Tiroxina - 4 yodos)
 ```
 
-**ProducciÃ³n:**
-- **T4:** 90% de la producciÃ³n
-- **T3:** 10% de la producciÃ³n (pero mÃ¡s activa)
-- **T3 libre:** 1% (forma biolÃ³gicamente activa)
+**Producción:**
+- **T4:** 90% de la producción
+- **T3:** 10% de la producción (pero más activa)
+- **T3 libre:** 1% (forma biológicamente activa)
 
 ### Transporte en Sangre:
 
@@ -373,1361 +373,1361 @@ Circulan unidas a **TBG** (Globulina transportadora de tiroxina)
 
 ```
 T4/T3 total = Unida a TBG (99%) + Libre (1%)
-                                    â†‘
-                              BiolÃ³gicamente activa
+                                    ↑
+                              Biológicamente activa
 ```
 
-## ðŸŽ¯ FunciÃ³n de TSH en la Tiroides
+## 🎯 Función de TSH en la Tiroides
 
 **TSH estimula:**
 
 ```
-âœ“ â†‘ CaptaciÃ³n de yodo
-âœ“ â†‘ YodaciÃ³n de tirosina
-âœ“ â†‘ ProteÃ³lisis de tiroglobulina (libera T3/T4)
-âœ“ â†‘ NÃºmero de cÃ©lulas foliculares
-âœ“ â†‘ VascularizaciÃ³n de la glÃ¡ndula
+✓ ↑ Captación de yodo
+✓ ↑ Yodación de tirosina
+✓ ↑ Proteólisis de tiroglobulina (libera T3/T4)
+✓ ↑ Número de células foliculares
+✓ ↑ Vascularización de la glándula
 ```
 
-## Mecanismo de AcciÃ³n de Hormonas Tiroideas
+## Mecanismo de Acción de Hormonas Tiroideas
 
-**Paso 1:** Entrada a la cÃ©lula
+**Paso 1:** Entrada a la célula
 ```
-T4/T3 â†’ DifusiÃ³n o transportadores especÃ­ficos â†’ Citoplasma
-```
-
-**Paso 2:** ConversiÃ³n (si es necesario)
-```
-T4 â†’ Desiodinasa â†’ T3 (forma mÃ¡s activa)
+T4/T3 → Difusión o transportadores específicos → Citoplasma
 ```
 
-**Paso 3:** UniÃ³n a receptor
+**Paso 2:** Conversión (si es necesario)
 ```
-T3 â†’ Receptor nuclear THR (Thyroid Hormone Receptor)
+T4 → Desiodinasa → T3 (forma más activa)
 ```
 
-**Paso 4:** Efecto genÃ³mico
+**Paso 3:** Unión a receptor
 ```
-Complejo T3-THR â†’ Se une al DNA â†’ Modifica expresiÃ³n gÃ©nica
+T3 → Receptor nuclear THR (Thyroid Hormone Receptor)
+```
+
+**Paso 4:** Efecto genómico
+```
+Complejo T3-THR → Se une al DNA → Modifica expresión génica
 ```
 
 **Efectos celulares:**
-- â†‘ Metabolismo basal
-- â†‘ Consumo de Oâ‚‚
-- â†‘ ProducciÃ³n de calor
-- â†‘ SÃ­ntesis proteica
-- Desarrollo del SNC (crÃ­tico en fetos/niÃ±os)
+- ↑ Metabolismo basal
+- ↑ Consumo de O₂
+- ↑ Producción de calor
+- ↑ Síntesis proteica
+- Desarrollo del SNC (crítico en fetos/niños)
 
-## ðŸ”„ RegulaciÃ³n por RetroalimentaciÃ³n Negativa
+## 🔄 Regulación por Retroalimentación Negativa
 
 ```
-    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-    â”‚ HipotÃ¡lamo  â”‚
-    â”‚    TRH      â”‚ â†â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-    â””â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”˜             â”‚
-           â†“                    â”‚ Feedback (-)
-    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”             â”‚
-    â”‚  HipÃ³fisis  â”‚             â”‚
-    â”‚    TSH      â”‚ â†â”€â”€â”€â”€â”€â”€â”€â”   â”‚
-    â””â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”˜         â”‚   â”‚
-           â†“                â”‚   â”‚
-    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”         â”‚   â”‚
-    â”‚  Tiroides   â”‚         â”‚   â”‚
-    â”‚   T4, T3    â”‚â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”˜
-    â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+    ┌─────────────┐
+    │ Hipotálamo  │
+    │    TRH      │ ←───────────┐
+    └──────┬──────┘             │
+           ↓                    │ Feedback (-)
+    ┌─────────────┐             │
+    │  Hipófisis  │             │
+    │    TSH      │ ←───────┐   │
+    └──────┬──────┘         │   │
+           ↓                │   │
+    ┌─────────────┐         │   │
+    │  Tiroides   │         │   │
+    │   T4, T3    │─────────┴───┘
+    └─────────────┘
 ```
 
 **Mecanismo:**
-- â†‘ T3/T4 circulantes â†’ Inhiben secreciÃ³n de TRH y TSH
-- â†“ T3/T4 circulantes â†’ Estimulan secreciÃ³n de TRH y TSH
+- ↑ T3/T4 circulantes → Inhiben secreción de TRH y TSH
+- ↓ T3/T4 circulantes → Estimulan secreción de TRH y TSH
 
-## âš ï¸ Hipertiroidismo
+## ⚠️ Hipertiroidismo
 
-**DefiniciÃ³n:** ProducciÃ³n excesiva de hormonas tiroideas
+**Definición:** Producción excesiva de hormonas tiroideas
 
-**Causas mÃ¡s comunes:**
+**Causas más comunes:**
 - Enfermedad de Graves (autoinmune)
-- NÃ³dulos tiroideos hiperfuncionales
+- Nódulos tiroideos hiperfuncionales
 - Tiroiditis
 
-**SÃ­ntomas:**
+**Síntomas:**
 
-| Sistema | ManifestaciÃ³n |
+| Sistema | Manifestación |
 |---------|---------------|
-| **MetabÃ³lico** | PÃ©rdida de peso, â†‘ apetito |
+| **Metabólico** | Pérdida de peso, ↑ apetito |
 | **Cardiovascular** | Taquicardia, palpitaciones |
 | **Nervioso** | Nerviosismo, ansiedad, temblor |
-| **TermorregulaciÃ³n** | Intolerancia al calor, sudoraciÃ³n |
+| **Termorregulación** | Intolerancia al calor, sudoración |
 | **Digestivo** | Diarrea |
 | **Ocular** | Exoftalmos (en Graves) |
 
 ---
 
-# ðŸ”º EJE HIPOTÃLAMO-HIPÃ“FISIS-ADRENAL
+# 🔺 EJE HIPOTÁLAMO-HIPÓFISIS-ADRENAL
 
 ## Cascada Hormonal
 
 ```
-    HIPOTÃLAMO
-        â†“ CRH (Hormona liberadora de corticotropina)
-    ADENOHIPÃ“FISIS
-        â†“ ACTH (Hormona adrenocorticÃ³tropa)
+    HIPOTÁLAMO
+        ↓ CRH (Hormona liberadora de corticotropina)
+    ADENOHIPÓFISIS
+        ↓ ACTH (Hormona adrenocorticótropa)
     CORTEZA ADRENAL
-        â†“ CORTISOL (principalmente)
+        ↓ CORTISOL (principalmente)
     TEJIDOS DIANA
 ```
 
 ---
 
-# ðŸ”ï¸ GLÃNDULAS SUPRARRENALES (Adrenales)
+# 🏔️ GLÁNDULAS SUPRARRENALES (Adrenales)
 
-**LocalizaciÃ³n:** Sobre los riÃ±ones
+**Localización:** Sobre los riñones
 
 **Estructura:** Divididas en dos regiones funcionalmente distintas
 
-## ðŸŸ¤ MÃ‰DULA SUPRARRENAL (Interna)
+## 🟤 MÉDULA SUPRARRENAL (Interna)
 
 ### Hormonas Producidas (Catecolaminas)
 
-**Tipo:** Hormonas **hidrofÃ­licas** derivadas de tirosina
+**Tipo:** Hormonas **hidrofílicas** derivadas de tirosina
 
 | Hormona | Porcentaje | Origen |
 |---------|------------|--------|
-| **Adrenalina** (Epinefrina) | 80% | CÃ©lulas cromafines |
-| **Noradrenalina** (Norepinefrina) | 20% | CÃ©lulas cromafines |
+| **Adrenalina** (Epinefrina) | 80% | Células cromafines |
+| **Noradrenalina** (Norepinefrina) | 20% | Células cromafines |
 
-**CaracterÃ­sticas:**
-- Almacenadas en **vesÃ­culas secretoras**
+**Características:**
+- Almacenadas en **vesículas secretoras**
 - Liberadas por **exocitosis**
 - **NO controladas por ACTH**
-- Controladas por sistema nervioso simpÃ¡tico
+- Controladas por sistema nervioso simpático
 
-**DistribuciÃ³n de noradrenalina circulante:**
-- 30% de mÃ©dula adrenal
-- 70% de terminales simpÃ¡ticas
+**Distribución de noradrenalina circulante:**
+- 30% de médula adrenal
+- 70% de terminales simpáticas
 
-### Mecanismo de LiberaciÃ³n
+### Mecanismo de Liberación
 
 ```
-EstrÃ©s/Emergencia
-        â†“
-ActivaciÃ³n sistema simpÃ¡tico
-        â†“
-EstimulaciÃ³n mÃ©dula adrenal
-        â†“
+Estrés/Emergencia
+        ↓
+Activación sistema simpático
+        ↓
+Estimulación médula adrenal
+        ↓
 Exocitosis de catecolaminas
-        â†“
+        ↓
 Respuesta "Fight or Flight"
 ```
 
 ### Receptores y Efectos
 
-**Receptores adrenÃ©rgicos:**
+**Receptores adrenérgicos:**
 
-| Receptor | UbicaciÃ³n | Efecto |
+| Receptor | Ubicación | Efecto |
 |----------|-----------|--------|
-| **Î±1** | Vasos sanguÃ­neos | VasoconstricciÃ³n |
-| **Î±2** | Terminales nerviosas | InhibiciÃ³n liberaciÃ³n NT |
-| **Î²1** | CorazÃ³n | â†‘ Frecuencia y contractilidad |
-| **Î²2** | Bronquios, vasos | BroncodilataciÃ³n, vasodilataciÃ³n |
-| **Î²3** | Tejido adiposo | LipÃ³lisis |
+| **α1** | Vasos sanguíneos | Vasoconstricción |
+| **α2** | Terminales nerviosas | Inhibición liberación NT |
+| **β1** | Corazón | ↑ Frecuencia y contractilidad |
+| **β2** | Bronquios, vasos | Broncodilatación, vasodilatación |
+| **β3** | Tejido adiposo | Lipólisis |
 
-**Efectos fisiolÃ³gicos:**
+**Efectos fisiológicos:**
 ```
-âœ“ â†‘ Frecuencia cardÃ­aca
-âœ“ â†‘ PresiÃ³n arterial
-âœ“ â†‘ Glucosa sanguÃ­nea
-âœ“ BroncodilataciÃ³n
-âœ“ DilataciÃ³n pupilar
-âœ“ â†‘ Alerta mental
-âœ“ RedistribuciÃ³n flujo sanguÃ­neo (mÃºsculo/cerebro)
+✓ ↑ Frecuencia cardíaca
+✓ ↑ Presión arterial
+✓ ↑ Glucosa sanguínea
+✓ Broncodilatación
+✓ Dilatación pupilar
+✓ ↑ Alerta mental
+✓ Redistribución flujo sanguíneo (músculo/cerebro)
 ```
 
 ---
 
-## ðŸŸ¡ CORTEZA SUPRARRENAL (Externa)
+## 🟡 CORTEZA SUPRARRENAL (Externa)
 
 **Tipo de hormonas:** **Liposolubles** (esteroides derivados de colesterol)
 
-### OrganizaciÃ³n en 3 Zonas
+### Organización en 3 Zonas
 
 ```
-CÃPSULA
-    â†“
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚ ZONA GLOMERULOSA (externa)  â”‚ â†’ Mineralocorticoides
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚ ZONA FASCICULAR (media)     â”‚ â†’ Glucocorticoides
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚ ZONA RETICULAR (interna)    â”‚ â†’ AndrÃ³genos
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-    â†“
-MÃ‰DULA
+CÁPSULA
+    ↓
+┌─────────────────────────────┐
+│ ZONA GLOMERULOSA (externa)  │ → Mineralocorticoides
+├─────────────────────────────┤
+│ ZONA FASCICULAR (media)     │ → Glucocorticoides
+├─────────────────────────────┤
+│ ZONA RETICULAR (interna)    │ → Andrógenos
+└─────────────────────────────┘
+    ↓
+MÉDULA
 ```
 
-### 1ï¸âƒ£ ZONA GLOMERULOSA (Externa)
+### 1️⃣ ZONA GLOMERULOSA (Externa)
 
 **Produce:** **ALDOSTERONA** (mineralocorticoide)
 
-**FunciÃ³n principal:** RegulaciÃ³n de homeostasis de sodio y potasio
+**Función principal:** Regulación de homeostasis de sodio y potasio
 
 **Efectos:**
 ```
-Aldosterona â†’ TÃºbulo distal renal
-            â†“
-â†‘ ReabsorciÃ³n de Naâº
-â†‘ ExcreciÃ³n de Kâº
-â†‘ ReabsorciÃ³n de Hâ‚‚O (sigue al Naâº)
-            â†“
-â†‘ Volumen sanguÃ­neo
-â†‘ PresiÃ³n arterial
+Aldosterona → Túbulo distal renal
+            ↓
+↑ Reabsorción de Na⁺
+↑ Excreción de K⁺
+↑ Reabsorción de H₂O (sigue al Na⁺)
+            ↓
+↑ Volumen sanguíneo
+↑ Presión arterial
 ```
 
-**RegulaciÃ³n:** Principalmente por **Sistema Renina-Angiotensina-Aldosterona**
+**Regulación:** Principalmente por **Sistema Renina-Angiotensina-Aldosterona**
 - Poco regulada por ACTH
-- Responde a â†“ presiÃ³n arterial y â†“ Naâº
+- Responde a ↓ presión arterial y ↓ Na⁺
 
-### 2ï¸âƒ£ ZONA FASCICULAR (Media)
+### 2️⃣ ZONA FASCICULAR (Media)
 
 **Produce:** **CORTISOL** (glucocorticoide principal)
 
-**SÃ­ntesis:**
+**Síntesis:**
 ```
-Colesterol â†’ (en mitocondria y REL) â†’ Cortisol
+Colesterol → (en mitocondria y REL) → Cortisol
 ```
 
-#### ðŸŽ¯ Funciones del Cortisol
+#### 🎯 Funciones del Cortisol
 
 | Sistema | Efecto |
 |---------|--------|
-| **Metabolismo glucosa** | â†‘ GluconeogÃ©nesis, â†‘ glucosa sanguÃ­nea |
-| **Metabolismo proteico** | Catabolismo proteico (mÃºsculos) |
-| **Metabolismo lipÃ­dico** | LipÃ³lisis, redistribuciÃ³n de grasa |
-| **Sistema inmune** | â†“ Respuesta inflamatoria, inmunosupresiÃ³n |
-| **Cardiovascular** | Regula presiÃ³n arterial |
-| **SNC** | Control ciclo sueÃ±o-vigilia |
-| **EstrÃ©s** | Respuesta adaptativa al estrÃ©s |
+| **Metabolismo glucosa** | ↑ Gluconeogénesis, ↑ glucosa sanguínea |
+| **Metabolismo proteico** | Catabolismo proteico (músculos) |
+| **Metabolismo lipídico** | Lipólisis, redistribución de grasa |
+| **Sistema inmune** | ↓ Respuesta inflamatoria, inmunosupresión |
+| **Cardiovascular** | Regula presión arterial |
+| **SNC** | Control ciclo sueño-vigilia |
+| **Estrés** | Respuesta adaptativa al estrés |
 
-#### Mecanismo de AcciÃ³n del Cortisol
+#### Mecanismo de Acción del Cortisol
 
 ```
 Cortisol (liposoluble)
-        â†“
+        ↓
 Atraviesa membrana celular
-        â†“
-Se une a receptor citoplasmÃ¡tico (GR)
-        â†“
+        ↓
+Se une a receptor citoplasmático (GR)
+        ↓
 Complejo Cortisol-GR
-        â†“
-TranslocaciÃ³n al nÃºcleo
-        â†“
-UniÃ³n a GREs (elementos de respuesta a glucocorticoides)
-        â†“
-ModificaciÃ³n expresiÃ³n gÃ©nica
-        â†“
-SÃ­ntesis de nuevas proteÃ­nas
+        ↓
+Translocación al núcleo
+        ↓
+Unión a GREs (elementos de respuesta a glucocorticoides)
+        ↓
+Modificación expresión génica
+        ↓
+Síntesis de nuevas proteínas
 ```
 
-#### RegulaciÃ³n del Cortisol (RetroalimentaciÃ³n Negativa)
+#### Regulación del Cortisol (Retroalimentación Negativa)
 
 ```
-    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-    â”‚ HipotÃ¡lamo  â”‚
-    â”‚    CRH      â”‚ â†â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-    â””â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”˜             â”‚
-           â†“                    â”‚ Feedback (-)
-    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”             â”‚
-    â”‚  HipÃ³fisis  â”‚             â”‚
-    â”‚    ACTH     â”‚ â†â”€â”€â”€â”€â”€â”€â”€â”   â”‚
-    â””â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”˜         â”‚   â”‚
-           â†“                â”‚   â”‚
-    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”         â”‚   â”‚
-    â”‚  Corteza    â”‚         â”‚   â”‚
-    â”‚  Adrenal    â”‚         â”‚   â”‚
-    â”‚  CORTISOL   â”‚â”€â”€â”€â”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”˜
-    â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+    ┌─────────────┐
+    │ Hipotálamo  │
+    │    CRH      │ ←───────────┐
+    └──────┬──────┘             │
+           ↓                    │ Feedback (-)
+    ┌─────────────┐             │
+    │  Hipófisis  │             │
+    │    ACTH     │ ←───────┐   │
+    └──────┬──────┘         │   │
+           ↓                │   │
+    ┌─────────────┐         │   │
+    │  Corteza    │         │   │
+    │  Adrenal    │         │   │
+    │  CORTISOL   │─────────┴───┘
+    └─────────────┘
 ```
 
 **Ritmo circadiano:**
-- Pico mÃ¡ximo: 8:00 AM (al despertar)
-- MÃ­nimo: Medianoche
+- Pico máximo: 8:00 AM (al despertar)
+- Mínimo: Medianoche
 
-#### âš ï¸ Efectos del Exceso de Cortisol
+#### ⚠️ Efectos del Exceso de Cortisol
 
-**SÃ­ndrome de Cushing:**
+**Síndrome de Cushing:**
 ```
-â†’ Ganancia de peso (cara de luna llena)
-â†’ Hiperglucemia (diabetes)
-â†’ HipertensiÃ³n
-â†’ Debilidad muscular
-â†’ Osteoporosis
-â†’ InmunosupresiÃ³n
-â†’ Trastornos psiquiÃ¡tricos
+→ Ganancia de peso (cara de luna llena)
+→ Hiperglucemia (diabetes)
+→ Hipertensión
+→ Debilidad muscular
+→ Osteoporosis
+→ Inmunosupresión
+→ Trastornos psiquiátricos
 ```
 
-### 3ï¸âƒ£ ZONA RETICULAR (Interna)
+### 3️⃣ ZONA RETICULAR (Interna)
 
-**Produce:** **AndrÃ³genos suprarrenales**
+**Produce:** **Andrógenos suprarrenales**
 
 **Hormonas principales:**
 - **DHEA** (Deshidroepiandrosterona)
 - **Androstendiona**
 
 **Importancia:**
-- En **mujeres**: Aportan el **50% de los andrÃ³genos circulantes activos**
-- En **hombres**: ContribuciÃ³n menor (testÃ­culos son fuente principal)
-- Precursores de testosterona y estrÃ³genos en tejidos perifÃ©ricos
+- En **mujeres**: Aportan el **50% de los andrógenos circulantes activos**
+- En **hombres**: Contribución menor (testículos son fuente principal)
+- Precursores de testosterona y estrógenos en tejidos periféricos
 
 **Efectos:**
 ```
-â†’ Crecimiento de vello pÃºbico y axilar
-â†’ ContribuciÃ³n a libido
-â†’ Anabolismo proteico (menor que testosterona)
+→ Crecimiento de vello púbico y axilar
+→ Contribución a libido
+→ Anabolismo proteico (menor que testosterona)
 ```
 
 ---
 
-# ðŸ§¬ DIVISIÃ“N CELULAR
+# 🧬 DIVISIÓN CELULAR
 
-## Tipos de DivisiÃ³n Celular
+## Tipos de División Celular
 
-### ComparaciÃ³n Mitosis vs Meiosis
+### Comparación Mitosis vs Meiosis
 
-| CaracterÃ­stica | Mitosis | Meiosis |
+| Característica | Mitosis | Meiosis |
 |----------------|---------|---------|
-| **CÃ©lulas** | SomÃ¡ticas | Sexuales (gametos) |
+| **Células** | Somáticas | Sexuales (gametos) |
 | **Divisiones** | 1 | 2 |
-| **CÃ©lulas hijas** | 2 | 4 |
+| **Células hijas** | 2 | 4 |
 | **Cromosomas hijas** | Diploides (2n = 46) | Haploides (n = 23) |
-| **Variabilidad genÃ©tica** | IdÃ©nticas | Diferentes |
-| **FunciÃ³n** | Crecimiento, reparaciÃ³n | ReproducciÃ³n sexual |
+| **Variabilidad genética** | Idénticas | Diferentes |
+| **Función** | Crecimiento, reparación | Reproducción sexual |
 
-### ðŸ“– ReplicaciÃ³n del DNA
+### 📖 Replicación del DNA
 
 **Principio:** Semiconservativa
 
 ```
     DNA parental
-    â•â•â•â•â•â•â•â•â•â•â•
-    â•‘         â•‘
-    â•‘         â•‘  â†’ Se separan las hebras
-    â•â•â•â•â•â•â•â•â•â•â•
+    ═══════════
+    ║         ║
+    ║         ║  → Se separan las hebras
+    ═══════════
     
-    â•‘         â•‘
-    â•‘ nueva   â•‘ nueva  â†’ Cada hebra sirve de molde
-    â•‘         â•‘
-    â•â•â•â•â•â•   â•â•â•â•â•â•
+    ║         ║
+    ║ nueva   ║ nueva  → Cada hebra sirve de molde
+    ║         ║
+    ══════   ══════
     
     2 DNA hijos (cada uno con 1 hebra antigua + 1 nueva)
 ```
 
-**CaracterÃ­sticas:**
+**Características:**
 - Cadenas antiguas sirven de molde
-- Necesaria antes de cualquier divisiÃ³n
-- DNA se condensa â†’ **Cromosomas**
+- Necesaria antes de cualquier división
+- DNA se condensa → **Cromosomas**
 - Humanos: **46 cromosomas** (23 pares)
 
 ---
 
-## MITOSIS - DivisiÃ³n Celular SomÃ¡tica
+## MITOSIS - División Celular Somática
 
-**FunciÃ³n:** Crecimiento, reparaciÃ³n, mantenciÃ³n de tejidos
+**Función:** Crecimiento, reparación, mantención de tejidos
 
 ### Etapas de la Mitosis
 
-**1. INTERFASE** (preparaciÃ³n)
+**1. INTERFASE** (preparación)
 ```
-â†’ G1: Crecimiento celular
-â†’ S: SÃ­ntesis de DNA (replicaciÃ³n)
-â†’ G2: PreparaciÃ³n para mitosis
+→ G1: Crecimiento celular
+→ S: Síntesis de DNA (replicación)
+→ G2: Preparación para mitosis
 ```
 
 **2. PROFASE**
 ```
-â†’ CondensaciÃ³n de cromosomas
-â†’ Cromosomas ya duplicados (2 cromÃ¡tidas hermanas unidas por centrÃ³mero)
-â†’ FormaciÃ³n del huso mitÃ³tico
-â†’ DesapariciÃ³n de membrana nuclear
+→ Condensación de cromosomas
+→ Cromosomas ya duplicados (2 cromátidas hermanas unidas por centrómero)
+→ Formación del huso mitótico
+→ Desaparición de membrana nuclear
 ```
 
 **3. METAFASE**
 ```
-â†’ Cromosomas se alinean en ecuador celular
-â†’ Fibras del huso se unen a cinetocoros
+→ Cromosomas se alinean en ecuador celular
+→ Fibras del huso se unen a cinetocoros
 ```
 
 **4. ANAFASE**
 ```
-â†’ SeparaciÃ³n de cromÃ¡tidas hermanas
-â†’ MigraciÃ³n hacia polos opuestos
+→ Separación de cromátidas hermanas
+→ Migración hacia polos opuestos
 ```
 
 **5. TELOFASE**
 ```
-â†’ Llegada a polos
-â†’ DescondensaciÃ³n de cromosomas
-â†’ ReapariciÃ³n de membrana nuclear
-â†’ FormaciÃ³n de 2 nÃºcleos
+→ Llegada a polos
+→ Descondensación de cromosomas
+→ Reaparición de membrana nuclear
+→ Formación de 2 núcleos
 ```
 
 **6. CITOCINESIS**
 ```
-â†’ DivisiÃ³n del citoplasma
-â†’ CÃ©lula animal: Anillo contrÃ¡ctil de actina
-â†’ CÃ©lula vegetal: Placa celular
+→ División del citoplasma
+→ Célula animal: Anillo contráctil de actina
+→ Célula vegetal: Placa celular
 ```
 
-**Resultado:** 2 cÃ©lulas hijas diploides (46 cromosomas) genÃ©ticamente idÃ©nticas
+**Resultado:** 2 células hijas diploides (46 cromosomas) genéticamente idénticas
 
 ---
 
-## MEIOSIS - DivisiÃ³n para Gametos
+## MEIOSIS - División para Gametos
 
-**FunciÃ³n:** ProducciÃ³n de cÃ©lulas sexuales (Ã³vulos y espermatozoides)
+**Función:** Producción de células sexuales (óvulos y espermatozoides)
 
-**CaracterÃ­sticas Ãºnicas:**
+**Características únicas:**
 - 2 divisiones consecutivas
-- ReducciÃ³n cromosÃ³mica (2n â†’ n)
-- Genera variabilidad genÃ©tica
+- Reducción cromosómica (2n → n)
+- Genera variabilidad genética
 
-### MEIOSIS I (DivisiÃ³n Reduccional)
+### MEIOSIS I (División Reduccional)
 
-**Objetivo:** Separar cromosomas homÃ³logos
+**Objetivo:** Separar cromosomas homólogos
 
-#### PROFASE I (La mÃ¡s larga y compleja)
+#### PROFASE I (La más larga y compleja)
 
 Dividida en 5 subfases:
 
 **1. LEPTOTENO**
 ```
-â†’ CondensaciÃ³n inicial de cromosomas
-â†’ Cada cromosoma tiene 2 cromÃ¡tidas hermanas
+→ Condensación inicial de cromosomas
+→ Cada cromosoma tiene 2 cromátidas hermanas
 ```
 
 **2. CIGOTENO**
 ```
-â†’ SINAPSIS: Apareamiento de cromosomas homÃ³logos
-â†’ FormaciÃ³n del complejo sinaptonÃ©mico
-â†’ Cromosomas homÃ³logos se emparejan (2n = 23 pares)
+→ SINAPSIS: Apareamiento de cromosomas homólogos
+→ Formación del complejo sinaptonémico
+→ Cromosomas homólogos se emparejan (2n = 23 pares)
 ```
 
 **3. PAQUITENO**
 ```
-â†’ Termina la sinapsis completa
-â†’ ENTRECRUZAMIENTO (Crossing-over)
-â†’ Intercambio de segmentos de DNA entre cromÃ¡tidas no hermanas
-â†’ Â¡Genera variabilidad genÃ©tica!
+→ Termina la sinapsis completa
+→ ENTRECRUZAMIENTO (Crossing-over)
+→ Intercambio de segmentos de DNA entre cromátidas no hermanas
+→ ¡Genera variabilidad genética!
 ```
 
 **Entrecruzamiento:**
 ```
-Cromosoma materno:   â•â•â•â•—     â•”â•â•â•
-                         â•‘     â•‘
-Cromosoma paterno:   â”€â”€â”€â•šâ•â•â•â•â•â•â”€â”€â”€
+Cromosoma materno:   ═══╗     ╔═══
+                         ║     ║
+Cromosoma paterno:   ───╚═════╝───
                          
         Se intercambian segmentos
-                â†“
+                ↓
 Cromosomas recombinantes (mezcla de info materna y paterna)
 ```
 
 **4. DIPLOTENO**
 ```
-â†’ Desaparece complejo sinaptonÃ©mico
-â†’ HomÃ³logos comienzan a separarse
-â†’ Permanecen unidos por QUIASMAS (puntos de entrecruzamiento)
+→ Desaparece complejo sinaptonémico
+→ Homólogos comienzan a separarse
+→ Permanecen unidos por QUIASMAS (puntos de entrecruzamiento)
 ```
 
 **5. DIACINESIS**
 ```
-â†’ Desaparecen los quiasmas
-â†’ MigraciÃ³n de cromosomas hacia periferia
-â†’ FormaciÃ³n del huso mitÃ³tico
-â†’ DisoluciÃ³n de membrana nuclear
+→ Desaparecen los quiasmas
+→ Migración de cromosomas hacia periferia
+→ Formación del huso mitótico
+→ Disolución de membrana nuclear
 ```
 
 #### METAFASE I
 ```
-â†’ Pares de homÃ³logos se alinean en ecuador
-â†’ OrientaciÃ³n aleatoria (segregaciÃ³n independiente)
-â†’ MÃ¡s variabilidad genÃ©tica
+→ Pares de homólogos se alinean en ecuador
+→ Orientación aleatoria (segregación independiente)
+→ Más variabilidad genética
 ```
 
 #### ANAFASE I
 ```
-â†’ SeparaciÃ³n de cromosomas homÃ³logos
-â†’ Cada polo recibe un cromosoma de cada par
-â†’ CromÃ¡tidas hermanas permanecen unidas
+→ Separación de cromosomas homólogos
+→ Cada polo recibe un cromosoma de cada par
+→ Cromátidas hermanas permanecen unidas
 ```
 
 #### TELOFASE I y CITOCINESIS
 ```
-â†’ FormaciÃ³n de 2 cÃ©lulas
-â†’ Cada cÃ©lula es haploide (n = 23 cromosomas)
-â†’ Pero cada cromosoma tiene 2 cromÃ¡tidas hermanas
-â†’ InformaciÃ³n genÃ©tica diferente entre cÃ©lulas
+→ Formación de 2 células
+→ Cada célula es haploide (n = 23 cromosomas)
+→ Pero cada cromosoma tiene 2 cromátidas hermanas
+→ Información genética diferente entre células
 ```
 
-**Resultado Meiosis I:** 2 cÃ©lulas haploides (n) con cromosomas aÃºn duplicados
+**Resultado Meiosis I:** 2 células haploides (n) con cromosomas aún duplicados
 
 ---
 
-### MEIOSIS II (DivisiÃ³n Ecuacional)
+### MEIOSIS II (División Ecuacional)
 
-**Objetivo:** Separar cromÃ¡tidas hermanas (similar a mitosis)
+**Objetivo:** Separar cromátidas hermanas (similar a mitosis)
 
-**CaracterÃ­sticas:**
-- **NO hay replicaciÃ³n de DNA**
+**Características:**
+- **NO hay replicación de DNA**
 - Similar a una mitosis
-- Cada cÃ©lula de meiosis I se divide
+- Cada célula de meiosis I se divide
 
 #### Etapas:
 ```
-â†’ Profase II: CondensaciÃ³n
-â†’ Metafase II: AlineaciÃ³n en ecuador
-â†’ Anafase II: SeparaciÃ³n de cromÃ¡tidas hermanas
-â†’ Telofase II: FormaciÃ³n de nÃºcleos
-â†’ Citocinesis: 4 cÃ©lulas haploides
+→ Profase II: Condensación
+→ Metafase II: Alineación en ecuador
+→ Anafase II: Separación de cromátidas hermanas
+→ Telofase II: Formación de núcleos
+→ Citocinesis: 4 células haploides
 ```
 
-**Resultado Final Meiosis:** 4 cÃ©lulas haploides (n = 23 cromosomas) genÃ©ticamente Ãºnicas
+**Resultado Final Meiosis:** 4 células haploides (n = 23 cromosomas) genéticamente únicas
 
 ---
 
-## ðŸ”¬ FecundaciÃ³n: RestauraciÃ³n de la DiploidÃ­a
+## 🔬 Fecundación: Restauración de la Diploidía
 
 ```
-Espermatozoide (n=23) + Ã“vulo (n=23) = Cigoto (2n=46)
+Espermatozoide (n=23) + Óvulo (n=23) = Cigoto (2n=46)
 ```
 
 ---
 
-# ðŸ‘¶ DESARROLLO SEXUAL Y PUBERTAD
+# 👶 DESARROLLO SEXUAL Y PUBERTAD
 
 ## GnRH: Llave del Desarrollo Reproductivo
 
-**GnRH** (Hormona liberadora de gonadotropina) del hipotÃ¡lamo inicia:
+**GnRH** (Hormona liberadora de gonadotropina) del hipotálamo inicia:
 - Desarrollo del aparato reproductor
 - Control hormonal reproductivo
 - Inicio de pubertad
 
 **Cascada:**
 ```
-HipotÃ¡lamo â†’ GnRH (pulsÃ¡til)
-           â†“
-HipÃ³fisis â†’ LH + FSH
-           â†“
-GÃ³nadas â†’ Hormonas sexuales + Gametos
+Hipotálamo → GnRH (pulsátil)
+           ↓
+Hipófisis → LH + FSH
+           ↓
+Gónadas → Hormonas sexuales + Gametos
 ```
 
-## ðŸ¦´ Hormonas Sexuales y CaracterÃ­sticas Secundarias
+## 🦴 Hormonas Sexuales y Características Secundarias
 
-**Testosterona** (hombres) y **EstrÃ³genos** (mujeres) generan:
+**Testosterona** (hombres) y **Estrógenos** (mujeres) generan:
 
 ### En Hombres:
 ```
-â†’ Crecimiento muscular
-â†’ Voz grave
-â†’ Vello facial y corporal
-â†’ Desarrollo genital
-â†’ EspermatogÃ©nesis
+→ Crecimiento muscular
+→ Voz grave
+→ Vello facial y corporal
+→ Desarrollo genital
+→ Espermatogénesis
 ```
 
 ### En Mujeres:
 ```
-â†’ Desarrollo mamario
-â†’ DistribuciÃ³n de grasa corporal
-â†’ Ciclo menstrual
-â†’ Desarrollo de genitales
+→ Desarrollo mamario
+→ Distribución de grasa corporal
+→ Ciclo menstrual
+→ Desarrollo de genitales
 ```
 
-## âš ï¸ Hipogonadismo HipogonadotrÃ³pico (HH)
+## ⚠️ Hipogonadismo Hipogonadotrópico (HH)
 
 **Causa:** Deficiencia de GnRH o gonadotropinas (LH/FSH)
 
 **Consecuencias:**
-- â†“ ProducciÃ³n de hormonas sexuales
+- ↓ Producción de hormonas sexuales
 - Alteraciones en desarrollo sexual
 - Infertilidad
 - Pubertad retrasada o ausente
 
 ---
 
-# ðŸ”µ SISTEMA REPRODUCTOR MASCULINO
+# 🔵 SISTEMA REPRODUCTOR MASCULINO
 
-## DeterminaciÃ³n del Sexo CromosÃ³mico
+## Determinación del Sexo Cromosómico
 
 **Cromosomas sexuales:**
 
 ```
-Ã“vulo (X) + Espermatozoide (X) = XX â†’ MUJER
-Ã“vulo (X) + Espermatozoide (Y) = XY â†’ HOMBRE
+Óvulo (X) + Espermatozoide (X) = XX → MUJER
+Óvulo (X) + Espermatozoide (Y) = XY → HOMBRE
 ```
 
-El cromosoma Y contiene el gen **SRY** (regiÃ³n determinante del sexo) que inicia desarrollo masculino.
+El cromosoma Y contiene el gen **SRY** (región determinante del sexo) que inicia desarrollo masculino.
 
 ---
 
-## ðŸ“ AnatomÃ­a del Sistema Reproductor Masculino
+## 📍 Anatomía del Sistema Reproductor Masculino
 
-### Ã“rganos Externos:
+### Órganos Externos:
 ```
-â†’ Pene
-â†’ Escroto (contiene testÃ­culos)
-â†’ TestÃ­culos (gÃ³nadas)
+→ Pene
+→ Escroto (contiene testículos)
+→ Testículos (gónadas)
 ```
 
-### Ã“rganos Internos:
+### Órganos Internos:
 ```
-â†’ EpidÃ­dimo
-â†’ Conductos deferentes
-â†’ VesÃ­culas seminales
-â†’ PrÃ³stata
-â†’ GlÃ¡ndulas bulbouretrales (Cowper)
-â†’ Uretra
+→ Epidídimo
+→ Conductos deferentes
+→ Vesículas seminales
+→ Próstata
+→ Glándulas bulbouretrales (Cowper)
+→ Uretra
 ```
 
 ---
 
-# ðŸ¥š TESTÃCULOS: GÃ³nadas Masculinas
+# 🥚 TESTÍCULOS: Gónadas Masculinas
 
 ## Estructura Testicular
 
-**Cubierta externa:** TÃºnica albugÃ­nea (tejido conjuntivo)
+**Cubierta externa:** Túnica albugínea (tejido conjuntivo)
 
-**OrganizaciÃ³n interna:** ~300 lobulillos
+**Organización interna:** ~300 lobulillos
 
-### VÃ­a espermÃ¡tica:
+### Vía espermática:
 
 ```
-TÃºbulos seminÃ­feros
-        â†“
+Túbulos seminíferos
+        ↓
 Red testicular (rete testis)
-        â†“
+        ↓
 Conductillos eferentes
-        â†“
-EpidÃ­dimo (cabeza â†’ cuerpo â†’ cola)
-        â†“
+        ↓
+Epidídimo (cabeza → cuerpo → cola)
+        ↓
 Conducto deferente
 ```
 
 ---
 
-## ðŸ”¬ Dos Compartimentos Funcionales del TestÃ­culo
+## 🔬 Dos Compartimentos Funcionales del Testículo
 
-### 1ï¸âƒ£ COMPARTIMENTO INTRATUBULAR (Epitelio SeminÃ­fero)
+### 1️⃣ COMPARTIMENTO INTRATUBULAR (Epitelio Seminífero)
 
-**CÃ©lulas presentes:**
+**Células presentes:**
 
-#### A) CÃ©lulas EspermÃ¡ticas (en desarrollo):
+#### A) Células Espermáticas (en desarrollo):
 
 **Compartimento BASAL:**
-- Espermatogonias (cÃ©lulas madre, diploides 2n)
+- Espermatogonias (células madre, diploides 2n)
 - Espermatocitos primarios (diploides 2n)
 - Espermatocitos secundarios (haploides n)
 
 **Compartimento ADLUMINAL:**
-- EspermÃ¡tidas (haploides n)
+- Espermátidas (haploides n)
 - Espermatozoides (haploides n, maduros)
 
-#### B) CÃ©lulas de Sertoli:
+#### B) Células de Sertoli:
 
 **Funciones:**
 ```
-â†’ Soporte estructural de cÃ©lulas espermÃ¡ticas
-â†’ NutriciÃ³n de cÃ©lulas en desarrollo
-â†’ Fagocitosis de cÃ©lulas defectuosas
-â†’ SecreciÃ³n de fluido testicular
-â†’ ProducciÃ³n de ABP (proteÃ­na transportadora de andrÃ³genos)
-â†’ ProducciÃ³n de Inhibina
-â†’ ConversiÃ³n de testosterona â†’ Estradiol (aromatasa)
-â†’ FormaciÃ³n de barrera hematotesticular
+→ Soporte estructural de células espermáticas
+→ Nutrición de células en desarrollo
+→ Fagocitosis de células defectuosas
+→ Secreción de fluido testicular
+→ Producción de ABP (proteína transportadora de andrógenos)
+→ Producción de Inhibina
+→ Conversión de testosterona → Estradiol (aromatasa)
+→ Formación de barrera hematotesticular
 ```
 
-**AnalogÃ­a:** Similar a cÃ©lulas de la granulosa en ovarios
+**Analogía:** Similar a células de la granulosa en ovarios
 
 ---
 
-### 2ï¸âƒ£ COMPARTIMENTO PERITUBULAR
+### 2️⃣ COMPARTIMENTO PERITUBULAR
 
-**CÃ©lulas de Leydig:**
+**Células de Leydig:**
 
-**FunciÃ³n principal:**
-- Principal cÃ©lula endocrina del testÃ­culo
-- ProducciÃ³n de **TESTOSTERONA**
-- ProducciÃ³n de precursores de **DHT**
+**Función principal:**
+- Principal célula endocrina del testículo
+- Producción de **TESTOSTERONA**
+- Producción de precursores de **DHT**
 
-**AnalogÃ­a:** Similar a cÃ©lulas de la teca en ovarios
-
----
-
-# ðŸ”„ ESPERMATOGÃ‰NESIS
-
-**DefiniciÃ³n:** Proceso de formaciÃ³n de espermatozoides
-
-## CaracterÃ­sticas Generales:
-
-```
-âœ“ Continua desde pubertad hasta muerte
-âœ“ NO cÃ­clica (a diferencia de la mujer)
-âœ“ DuraciÃ³n total: 72 dÃ­as
-âœ“ Cada 16 dÃ­as inicia una nueva cohorte
-âœ“ ProducciÃ³n "escalonada" en el tÃºbulo
-âœ“ Densidad normal: 60 millones de espermatozoides / 3 ml semen
-```
+**Analogía:** Similar a células de la teca en ovarios
 
 ---
 
-## Fases de la EspermatogÃ©nesis
+# 🔄 ESPERMATOGÉNESIS
 
-### FASE 1: ProliferaciÃ³n (MITOSIS)
+**Definición:** Proceso de formación de espermatozoides
+
+## Características Generales:
 
 ```
-Espermatogonias progenitoras (2n, cÃ©lulas madre)
-            â†“ Mitosis
+✓ Continua desde pubertad hasta muerte
+✓ NO cíclica (a diferencia de la mujer)
+✓ Duración total: 72 días
+✓ Cada 16 días inicia una nueva cohorte
+✓ Producción "escalonada" en el túbulo
+✓ Densidad normal: 60 millones de espermatozoides / 3 ml semen
+```
+
+---
+
+## Fases de la Espermatogénesis
+
+### FASE 1: Proliferación (MITOSIS)
+
+```
+Espermatogonias progenitoras (2n, células madre)
+            ↓ Mitosis
 Espermatogonias hijas (2n)
-            â†“
+            ↓
 Algunas quedan como reserva
 Otras migran hacia zona apical
-            â†“
+            ↓
 Espermatocitos primarios (2n)
 ```
 
-### FASE 2: Primera DivisiÃ³n MeiÃ³tica (MEIOSIS I)
+### FASE 2: Primera División Meiótica (MEIOSIS I)
 
 ```
 Espermatocitos primarios (2n)
-            â†“ Meiosis I
-            â†“ (Profase I larga con entrecruzamiento)
-            â†“
+            ↓ Meiosis I
+            ↓ (Profase I larga con entrecruzamiento)
+            ↓
 Espermatocitos secundarios (n)
 ```
 
-**DuraciÃ³n:** ~24 dÃ­as
+**Duración:** ~24 días
 
-### FASE 3: Segunda DivisiÃ³n MeiÃ³tica (MEIOSIS II)
+### FASE 3: Segunda División Meiótica (MEIOSIS II)
 
 ```
 Espermatocitos secundarios (n)
-            â†“ Meiosis II
-            â†“ (sin replicaciÃ³n de DNA)
-            â†“
-4 EspermÃ¡tidas (n) por cada espermatocito primario
+            ↓ Meiosis II
+            ↓ (sin replicación de DNA)
+            ↓
+4 Espermátidas (n) por cada espermatocito primario
 ```
 
-**DuraciÃ³n:** RÃ¡pida
+**Duración:** Rápida
 
-### FASE 4: DiferenciaciÃ³n (ESPERMIOGÃ‰NESIS)
+### FASE 4: Diferenciación (ESPERMIOGÉNESIS)
 
-**TransformaciÃ³n de espermÃ¡tidas â†’ espermatozoides maduros**
+**Transformación de espermátidas → espermatozoides maduros**
 
 #### Cambios estructurales:
 
-**1. FormaciÃ³n del ACROSOMA:**
+**1. Formación del ACROSOMA:**
 ```
-Aparato de Golgi â†’ VesÃ­cula acrosomal
-            â†“
-Contiene enzimas hidrolÃ­ticas:
-â†’ Hialuronidasa
-â†’ Acrosina
-â†’ Esterasas
-            â†“
-Esenciales para penetrar zona pelÃºcida del Ã³vulo
-```
-
-**2. CondensaciÃ³n del NÃšCLEO:**
-```
-â†’ Histonas reemplazadas por protaminas
-â†’ DNA altamente compactado
-â†’ NÃºcleo elongado y denso
+Aparato de Golgi → Vesícula acrosomal
+            ↓
+Contiene enzimas hidrolíticas:
+→ Hialuronidasa
+→ Acrosina
+→ Esterasas
+            ↓
+Esenciales para penetrar zona pelúcida del óvulo
 ```
 
-**3. FormaciÃ³n del FLAGELO:**
+**2. Condensación del NÚCLEO:**
 ```
-â†’ CentrÃ­olo â†’ Axonema (9+2 microtÃºbulos)
-â†’ Contiene dineÃ­nas (proteÃ­nas motoras)
-â†’ Responsable de motilidad
-```
-
-**4. ReorganizaciÃ³n de MITOCONDRIAS:**
-```
-â†’ Se ubican en pieza media del flagelo
-â†’ Enrolladas alrededor del axonema
-â†’ Producen ATP para movimiento
+→ Histonas reemplazadas por protaminas
+→ DNA altamente compactado
+→ Núcleo elongado y denso
 ```
 
-**5. ReducciÃ³n de CITOPLASMA:**
+**3. Formación del FLAGELO:**
 ```
-â†’ EliminaciÃ³n de citoplasma excedente
-â†’ Fagocitado por cÃ©lulas de Sertoli
-â†’ CÃ©lula mÃ¡s compacta y hidrodinÃ¡mica
+→ Centríolo → Axonema (9+2 microtúbulos)
+→ Contiene dineínas (proteínas motoras)
+→ Responsable de motilidad
+```
+
+**4. Reorganización de MITOCONDRIAS:**
+```
+→ Se ubican en pieza media del flagelo
+→ Enrolladas alrededor del axonema
+→ Producen ATP para movimiento
+```
+
+**5. Reducción de CITOPLASMA:**
+```
+→ Eliminación de citoplasma excedente
+→ Fagocitado por células de Sertoli
+→ Célula más compacta y hidrodinámica
 ```
 
 #### Estructura del Espermatozoide Maduro:
 
 ```
-    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-    â”‚  CABEZA    â”‚ â† NÃºcleo + Acrosoma
-    â””â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”˜
-           â”‚
-    â”Œâ”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”
-    â”‚ PIEZA MEDIAâ”‚ â† Mitocondrias
-    â””â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”˜
-           â”‚
-    â”Œâ”€â”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”
-    â”‚   FLAGELO  â”‚ â† Movimiento
-    â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+    ┌────────────┐
+    │  CABEZA    │ ← Núcleo + Acrosoma
+    └──────┬─────┘
+           │
+    ┌──────┴─────┐
+    │ PIEZA MEDIA│ ← Mitocondrias
+    └──────┬─────┘
+           │
+    ┌──────┴─────┐
+    │   FLAGELO  │ ← Movimiento
+    └────────────┘
 ```
 
-**DuraciÃ³n espermiogÃ©nesis:** ~24 dÃ­as
+**Duración espermiogénesis:** ~24 días
 
 ---
 
-## â±ï¸ DinÃ¡mica Temporal de la EspermatogÃ©nesis
+## ⏱️ Dinámica Temporal de la Espermatogénesis
 
 ```
-DuraciÃ³n TOTAL: 72 dÃ­as
+Duración TOTAL: 72 días
 
-â†’ DÃ­a 0: Espermatogonia inicia proceso
-â†’ DÃ­a 16: Nueva cohorte inicia
-â†’ DÃ­a 32: Otra cohorte inicia
-â†’ DÃ­a 48: Otra cohorte inicia
-â†’ DÃ­a 64: Otra cohorte inicia
-â†’ DÃ­a 72: Primera cohorte â†’ Espermatozoides
+→ Día 0: Espermatogonia inicia proceso
+→ Día 16: Nueva cohorte inicia
+→ Día 32: Otra cohorte inicia
+→ Día 48: Otra cohorte inicia
+→ Día 64: Otra cohorte inicia
+→ Día 72: Primera cohorte → Espermatozoides
 
-ProducciÃ³n continua y simultÃ¡nea en mÃºltiples puntos
+Producción continua y simultánea en múltiples puntos
 ```
 
 ---
 
-# ðŸ’ª TESTOSTERONA Y DHT
+# 💪 TESTOSTERONA Y DHT
 
-## SÃ­ntesis en CÃ©lulas de Leydig
+## Síntesis en Células de Leydig
 
 ```
 Colesterol
-    â†“ (varias enzimas)
+    ↓ (varias enzimas)
 Pregnenolona
-    â†“
+    ↓
 Progesterona
-    â†“
+    ↓
 Androstenodiona
-    â†“ (17Î²-HSD)
+    ↓ (17β-HSD)
 TESTOSTERONA
-    â†“ (5Î±-reductasa, en tejidos perifÃ©ricos)
+    ↓ (5α-reductasa, en tejidos periféricos)
 DHT (Dihidrotestosterona)
 ```
 
-**DHT es 2-3 veces mÃ¡s potente que testosterona**
+**DHT es 2-3 veces más potente que testosterona**
 
 ---
 
 ## Transporte en Sangre
 
-**Testosterona circula unida a proteÃ­nas:**
+**Testosterona circula unida a proteínas:**
 
 ```
 Testosterona total en sangre:
-â†’ 45% unida a SHBG (Globulina transportadora de hormonas sexuales)
-â†’ 50% unida a albÃºmina
-â†’ 2-3% LIBRE (biolÃ³gicamente activa)
+→ 45% unida a SHBG (Globulina transportadora de hormonas sexuales)
+→ 50% unida a albúmina
+→ 2-3% LIBRE (biológicamente activa)
 ```
 
-**En el testÃ­culo:**
-- **ABP** (ProteÃ­na transportadora de andrÃ³genos)
-- Producida por cÃ©lulas de Sertoli
-- Mantiene alta concentraciÃ³n local de testosterona
+**En el testículo:**
+- **ABP** (Proteína transportadora de andrógenos)
+- Producida por células de Sertoli
+- Mantiene alta concentración local de testosterona
 
 ---
 
-## Mecanismo de AcciÃ³n (Receptor AndrogÃ©nico - AR)
+## Mecanismo de Acción (Receptor Androgénico - AR)
 
 **Ambas hormonas usan el mismo receptor AR**
 
 ```
 Testosterona/DHT (liposoluble)
-        â†“
+        ↓
 Atraviesa membrana celular
-        â†“
+        ↓
 Se une a AR en citoplasma
-        â†“
-AR se separa de chaperonas (proteÃ­nas acompaÃ±antes)
-        â†“
+        ↓
+AR se separa de chaperonas (proteínas acompañantes)
+        ↓
 Complejo hormona-AR
-        â†“
-TranslocaciÃ³n al nÃºcleo
-        â†“
-DimerizaciÃ³n (2 complejos juntos)
-        â†“
-UniÃ³n a AREs (elementos de respuesta a andrÃ³genos en DNA)
-        â†“
-ModificaciÃ³n expresiÃ³n gÃ©nica
+        ↓
+Translocación al núcleo
+        ↓
+Dimerización (2 complejos juntos)
+        ↓
+Unión a AREs (elementos de respuesta a andrógenos en DNA)
+        ↓
+Modificación expresión génica
 ```
 
 ---
 
-## ðŸŽ¯ Funciones de Testosterona y DHT
+## 🎯 Funciones de Testosterona y DHT
 
 ### Durante Desarrollo Fetal:
 ```
-â†’ DiferenciaciÃ³n de genitales internos masculinos (testosterona)
-â†’ MasculinizaciÃ³n de genitales externos (DHT)
-â†’ Descenso testicular
+→ Diferenciación de genitales internos masculinos (testosterona)
+→ Masculinización de genitales externos (DHT)
+→ Descenso testicular
 ```
 
 ### En Pubertad:
 ```
-â†’ Crecimiento de pene y testÃ­culos
-â†’ Desarrollo de caracteres sexuales secundarios
-â†’ Voz grave (crecimiento laringe)
-â†’ Crecimiento muscular
-â†’ Vello facial, axilar, pÃºbico, corporal
-â†’ Inicio de espermatogÃ©nesis
-â†’ Aumento de libido
-â†’ EstirÃ³n de crecimiento
-â†’ MaduraciÃ³n Ã³sea
+→ Crecimiento de pene y testículos
+→ Desarrollo de caracteres sexuales secundarios
+→ Voz grave (crecimiento laringe)
+→ Crecimiento muscular
+→ Vello facial, axilar, púbico, corporal
+→ Inicio de espermatogénesis
+→ Aumento de libido
+→ Estirón de crecimiento
+→ Maduración ósea
 ```
 
 ### En Adulto:
 ```
-â†’ Mantenimiento de espermatogÃ©nesis
-â†’ Mantenimiento de masa muscular
-â†’ Mantenimiento de densidad Ã³sea
-â†’ Mantenimiento de libido
-â†’ ProducciÃ³n de eritropoyetina â†’ Eritropoyesis
-â†’ DistribuciÃ³n de grasa corporal
+→ Mantenimiento de espermatogénesis
+→ Mantenimiento de masa muscular
+→ Mantenimiento de densidad ósea
+→ Mantenimiento de libido
+→ Producción de eritropoyetina → Eritropoyesis
+→ Distribución de grasa corporal
 ```
 
 ---
 
-## ProducciÃ³n de Estradiol
+## Producción de Estradiol
 
-**CÃ©lulas de Sertoli:**
+**Células de Sertoli:**
 ```
-Testosterona + Aromatasa â†’ ESTRADIOL
+Testosterona + Aromatasa → ESTRADIOL
 ```
 
 **Funciones del estradiol en hombres:**
-- Cierre de epÃ­fisis Ã³seas
-- Mantenimiento de densidad Ã³sea
-- RegulaciÃ³n de feedback negativo
-- FunciÃ³n cognitiva
+- Cierre de epífisis óseas
+- Mantenimiento de densidad ósea
+- Regulación de feedback negativo
+- Función cognitiva
 
 ---
 
-# ðŸ”„ EJE HIPOTÃLAMO-HIPÃ“FISIS-TESTICULAR
+# 🔄 EJE HIPOTÁLAMO-HIPÓFISIS-TESTICULAR
 
 ## Cascada Hormonal Completa
 
 ```
-        HIPOTÃLAMO
-            â†“
-    GnRH (pulsÃ¡til, cada 90-120 min)
-            â†“
-        HIPÃ“FISIS
-            â†™     â†˜
+        HIPOTÁLAMO
+            ↓
+    GnRH (pulsátil, cada 90-120 min)
+            ↓
+        HIPÓFISIS
+            ↙     ↘
           LH       FSH
-           â†“         â†“
-    TESTÃCULO    TESTÃCULO
-    CÃ©lulas      CÃ©lulas
+           ↓         ↓
+    TESTÍCULO    TESTÍCULO
+    Células      Células
     de Leydig    de Sertoli
-         â†“            â†“
+         ↓            ↓
    Testosterona   ABP + Inhibina
-         â†“            â†“
+         ↓            ↓
    Tejidos    Soporte a
-   diana    EspermatogÃ©nesis
+   diana    Espermatogénesis
 ```
 
 ---
 
-## Acciones EspecÃ­ficas de Gonadotropinas
+## Acciones Específicas de Gonadotropinas
 
-### LH en CÃ©lulas de Leydig:
-
-```
-LH â†’ Receptor LHR (acoplado a proteÃ­na G)
-    â†“
-â†‘ AMPc
-    â†“
-ActivaciÃ³n de:
-â†’ HidrÃ³lisis de Ã©steres de colesterol
-â†’ ExpresiÃ³n de genes esteroidogÃ©nicos (StAR, CYP11A1, CYP17)
-â†’ ExpresiÃ³n de receptores LDL (captaciÃ³n colesterol)
-â†’ Crecimiento y proliferaciÃ³n de cÃ©lulas de Leydig
-â†’ â†‘â†‘ PRODUCCIÃ“N DE TESTOSTERONA
-```
-
-### FSH en CÃ©lulas de Sertoli:
+### LH en Células de Leydig:
 
 ```
-FSH â†’ Receptor FSHR (acoplado a proteÃ­na G)
-    â†“
-â†‘ AMPc
-    â†“
-ActivaciÃ³n de:
-â†’ SÃ­ntesis de ABP (concentra testosterona localmente)
-â†’ SÃ­ntesis de INHIBINA
-â†’ ExpresiÃ³n de aromatasa (testosterona â†’ estradiol)
-â†’ Factores de crecimiento para espermatogÃ©nesis
-â†’ Soporte metabÃ³lico y estructural
+LH → Receptor LHR (acoplado a proteína G)
+    ↓
+↑ AMPc
+    ↓
+Activación de:
+→ Hidrólisis de ésteres de colesterol
+→ Expresión de genes esteroidogénicos (StAR, CYP11A1, CYP17)
+→ Expresión de receptores LDL (captación colesterol)
+→ Crecimiento y proliferación de células de Leydig
+→ ↑↑ PRODUCCIÓN DE TESTOSTERONA
+```
+
+### FSH en Células de Sertoli:
+
+```
+FSH → Receptor FSHR (acoplado a proteína G)
+    ↓
+↑ AMPc
+    ↓
+Activación de:
+→ Síntesis de ABP (concentra testosterona localmente)
+→ Síntesis de INHIBINA
+→ Expresión de aromatasa (testosterona → estradiol)
+→ Factores de crecimiento para espermatogénesis
+→ Soporte metabólico y estructural
 ```
 
 ---
 
-## ðŸ”„ RetroalimentaciÃ³n Negativa
+## 🔄 Retroalimentación Negativa
 
 ### Tres niveles de feedback:
 
 **1. Testosterona:**
 ```
-â†‘ Testosterona circulante
-        â†“
-Inhibe secreciÃ³n de:
-â†’ GnRH (hipotÃ¡lamo)
-â†’ LH (hipÃ³fisis)
+↑ Testosterona circulante
+        ↓
+Inhibe secreción de:
+→ GnRH (hipotálamo)
+→ LH (hipófisis)
 ```
 
-**2. Estradiol** (de cÃ©lulas de Sertoli):
+**2. Estradiol** (de células de Sertoli):
 ```
-â†‘ Estradiol
-        â†“
-Inhibe secreciÃ³n de:
-â†’ GnRH (hipotÃ¡lamo)
-â†’ LH y FSH (hipÃ³fisis)
+↑ Estradiol
+        ↓
+Inhibe secreción de:
+→ GnRH (hipotálamo)
+→ LH y FSH (hipófisis)
 ```
 
-**3. Inhibina** (de cÃ©lulas de Sertoli):
+**3. Inhibina** (de células de Sertoli):
 ```
-â†‘ Inhibina
-        â†“
-Inhibe secreciÃ³n de:
-â†’ FSH (hipÃ³fisis) ESPECÃFICAMENTE
+↑ Inhibina
+        ↓
+Inhibe secreción de:
+→ FSH (hipófisis) ESPECÍFICAMENTE
 ```
 
 ---
 
-## âš ï¸ CONCEPTO CRÃTICO: Testosterona Intratesticular
+## ⚠️ CONCEPTO CRÍTICO: Testosterona Intratesticular
 
 ### Principio Fundamental:
 
-**La concentraciÃ³n de testosterona DENTRO del testÃ­culo debe ser 100 veces mayor que la testosterona circulante para mantener espermatogÃ©nesis adecuada.**
+**La concentración de testosterona DENTRO del testículo debe ser 100 veces mayor que la testosterona circulante para mantener espermatogénesis adecuada.**
 
 ```
 Testosterona intratesticular: 100 ng/ml
-Testosterona sanguÃ­nea: 5-7 ng/ml
+Testosterona sanguínea: 5-7 ng/ml
 ```
 
 ---
 
-## ðŸš¨ Problema con Testosterona ExÃ³gena
+## 🚨 Problema con Testosterona Exógena
 
 ### Mecanismo del problema:
 
 ```
-AdministraciÃ³n de testosterona exÃ³gena
-            â†“
-â†‘â†‘ Testosterona circulante
-            â†“
+Administración de testosterona exógena
+            ↓
+↑↑ Testosterona circulante
+            ↓
 Feedback negativo POTENTE
-            â†“
-â†“â†“ GnRH
-â†“â†“ LH y FSH
-            â†“
-â†“â†“ EstimulaciÃ³n de cÃ©lulas de Leydig
-            â†“
-â†“â†“ ProducciÃ³n LOCAL de testosterona
-            â†“
-ConcentraciÃ³n intratesticular INSUFICIENTE
-            â†“
-DETERIORO DE ESPERMATOGÃ‰NESIS
-            â†“
+            ↓
+↓↓ GnRH
+↓↓ LH y FSH
+            ↓
+↓↓ Estimulación de células de Leydig
+            ↓
+↓↓ Producción LOCAL de testosterona
+            ↓
+Concentración intratesticular INSUFICIENTE
+            ↓
+DETERIORO DE ESPERMATOGÉNESIS
+            ↓
 INFERTILIDAD (puede ser reversible)
 ```
 
-### Usos de Testosterona ExÃ³gena:
+### Usos de Testosterona Exógena:
 
-**1. Fisicoculturismo** (uso no mÃ©dico):
+**1. Fisicoculturismo** (uso no médico):
 ```
-â†’ Aumento de masa muscular
-â†’ RIESGO: Infertilidad
-â†’ RIESGO: Atrofia testicular
-â†’ RIESGO: Ginecomastia (â†‘ aromatizaciÃ³n â†’ estrÃ³genos)
+→ Aumento de masa muscular
+→ RIESGO: Infertilidad
+→ RIESGO: Atrofia testicular
+→ RIESGO: Ginecomastia (↑ aromatización → estrógenos)
 ```
 
-**2. Hipogonadismo HipogonadotrÃ³pico**:
+**2. Hipogonadismo Hipogonadotrópico**:
 ```
-â†’ Bajo supervisiÃ³n mÃ©dica
-â†’ Reemplazo hormonal
-â†’ Infertilidad esperada (puede necesitar LH/FSH adicionales)
+→ Bajo supervisión médica
+→ Reemplazo hormonal
+→ Infertilidad esperada (puede necesitar LH/FSH adicionales)
 ```
 
 **3. Terapia en Edad Avanzada**:
 ```
-â†’ Hipogonadismo relacionado con edad
-â†’ Mejora calidad de vida
-â†’ Si no se desea fertilidad
+→ Hipogonadismo relacionado con edad
+→ Mejora calidad de vida
+→ Si no se desea fertilidad
 ```
 
 ---
 
-# ðŸš€ TRACTO REPRODUCTOR MASCULINO
+# 🚀 TRACTO REPRODUCTOR MASCULINO
 
 ## Estructuras del Tracto
 
 ```
-EPIDÃDIMO
-    â†“
+EPIDÍDIMO
+    ↓
 CONDUCTO DEFERENTE
-    â†“
-CONDUCTO EYACULADOR (uniÃ³n con vesÃ­cula seminal)
-    â†“
-URETRA PROSTÃTICA
-    â†“
+    ↓
+CONDUCTO EYACULADOR (unión con vesícula seminal)
+    ↓
+URETRA PROSTÁTICA
+    ↓
 URETRA MEMBRANOSA
-    â†“
+    ↓
 URETRA PENIANA
 ```
 
 ---
 
-## ðŸŽ¯ Funciones del Tracto Reproductor
+## 🎯 Funciones del Tracto Reproductor
 
-### 1ï¸âƒ£ MADURACIÃ“N de Espermatozoides
+### 1️⃣ MADURACIÓN de Espermatozoides
 
-**EpidÃ­dimo:**
-- DuraciÃ³n: **~1 mes**
+**Epidídimo:**
+- Duración: **~1 mes**
 - Cambios en espermatozoides:
 
 ```
-â†’ Adquieren movilidad progresiva unidireccional
-â†’ Cambios en membrana plasmÃ¡tica
-â†’ Modificaciones en proteÃ­nas de superficie
-â†’ Capacidad para fecundar (potencial)
+→ Adquieren movilidad progresiva unidireccional
+→ Cambios en membrana plasmática
+→ Modificaciones en proteínas de superficie
+→ Capacidad para fecundar (potencial)
 ```
 
-### 2ï¸âƒ£ ALMACENAMIENTO
+### 2️⃣ ALMACENAMIENTO
 
-**UbicaciÃ³n:**
-- Cola del epidÃ­dimo (principal)
+**Ubicación:**
+- Cola del epidídimo (principal)
 - Conducto deferente
 
-**CaracterÃ­sticas:**
+**Características:**
 ```
-â†’ Ambiente con bajo pH
-â†’ Baja concentraciÃ³n de Oâ‚‚
-â†’ Espermatozoides en estado quiescente
-â†’ Pueden almacenarse semanas
+→ Ambiente con bajo pH
+→ Baja concentración de O₂
+→ Espermatozoides en estado quiescente
+→ Pueden almacenarse semanas
 ```
 
-### 3ï¸âƒ£ EMISIÃ“N
+### 3️⃣ EMISIÓN
 
 **Durante coito:**
 ```
-EstimulaciÃ³n sexual
-        â†“
-ActivaciÃ³n simpÃ¡tica
-        â†“
-ContracciÃ³n peristÃ¡ltica de:
-â†’ EpidÃ­dimo
-â†’ Conducto deferente
-        â†“
+Estimulación sexual
+        ↓
+Activación simpática
+        ↓
+Contracción peristáltica de:
+→ Epidídimo
+→ Conducto deferente
+        ↓
 Espermatozoides "empujados" hacia uretra
 ```
 
-### 4ï¸âƒ£ PRODUCCIÃ“N y MEZCLA de SEMEN
+### 4️⃣ PRODUCCIÓN y MEZCLA de SEMEN
 
 **Semen = Espermatozoides + Secreciones glandulares**
 
-#### ComposiciÃ³n del Semen:
+#### Composición del Semen:
 
-**A) De VESÃCULAS SEMINALES** (60% del volumen):
-
-```
-â†’ FRUCTOSA (energÃ­a para espermatozoides)
-â†’ Prostaglandinas (facilitan transporte en Ãºtero)
-â†’ Semenogelinas (coagulaciÃ³n inicial)
-â†’ FibrinÃ³geno
-â†’ Vitamina C
-â†’ pH alcalino (7.4)
-```
-
-**B) De PRÃ“STATA** (30% del volumen):
+**A) De VESÍCULAS SEMINALES** (60% del volumen):
 
 ```
-â†’ PSA (AntÃ­geno ProstÃ¡tico EspecÃ­fico)
-  - LicÃºa el semen coagulado
+→ FRUCTOSA (energía para espermatozoides)
+→ Prostaglandinas (facilitan transporte en útero)
+→ Semenogelinas (coagulación inicial)
+→ Fibrinógeno
+→ Vitamina C
+→ pH alcalino (7.4)
+```
+
+**B) De PRÓSTATA** (30% del volumen):
+
+```
+→ PSA (Antígeno Prostático Específico)
+  - Licúa el semen coagulado
   - Libera espermatozoides
-â†’ Ãcido cÃ­trico
-â†’ Zinc (antibacteriano)
-â†’ Fosfatasa Ã¡cida
-â†’ pH ligeramente Ã¡cido
+→ Ácido cítrico
+→ Zinc (antibacteriano)
+→ Fosfatasa ácida
+→ pH ligeramente ácido
 ```
 
-**C) De GLÃNDULAS BULBOURETRALES** (Cowper):
+**C) De GLÁNDULAS BULBOURETRALES** (Cowper):
 
 ```
-â†’ Moco lubricante
-â†’ Neutraliza acidez uretral
-â†’ SecreciÃ³n pre-eyaculatoria
+→ Moco lubricante
+→ Neutraliza acidez uretral
+→ Secreción pre-eyaculatoria
 ```
 
-**D) De TESTÃCULOS y EPIDÃDIMO** (5-10%):
+**D) De TESTÍCULOS y EPIDÍDIMO** (5-10%):
 
 ```
-â†’ Espermatozoides (60-150 millones/ml)
-â†’ Fluido testicular
+→ Espermatozoides (60-150 millones/ml)
+→ Fluido testicular
 ```
 
 #### Tampones en Semen:
 
 ```
-â†’ Fosfato
-â†’ Bicarbonato
-        â†“
+→ Fosfato
+→ Bicarbonato
+        ↓
 Neutralizan acidez vaginal
-        â†“
+        ↓
 Protegen espermatozoides
 ```
 
-**Volumen total eyaculaciÃ³n:** 2-5 ml
+**Volumen total eyaculación:** 2-5 ml
 
 ---
 
-# ðŸ† FISIOLOGÃA DEL PENE
+# 🍆 FISIOLOGÍA DEL PENE
 
-## Estructura AnatÃ³mica
+## Estructura Anatómica
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚  CUERPO CAVERNOSO    â”‚ â† Dorsal (2)
-â”‚  CUERPO CAVERNOSO    â”‚
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚  CUERPO ESPONJOSO    â”‚ â† Ventral (1)
-â”‚  (contiene uretra)   â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+┌──────────────────────┐
+│  CUERPO CAVERNOSO    │ ← Dorsal (2)
+│  CUERPO CAVERNOSO    │
+├──────────────────────┤
+│  CUERPO ESPONJOSO    │ ← Ventral (1)
+│  (contiene uretra)   │
+└──────────────────────┘
 ```
 
-**Tejido erÃ©ctil:**
+**Tejido eréctil:**
 - Espacios vasculares (sinusoides)
 - Musculatura lisa
-- Rica inervaciÃ³n
+- Rica inervación
 
 ---
 
-## Mecanismo de ERECCIÃ“N
+## Mecanismo de ERECCIÓN
 
-### Estado FLÃCIDO:
+### Estado FLÁCIDO:
 
 ```
-Tono simpÃ¡tico alto
-        â†“
-Musculatura lisa contraÃ­da
-        â†“
-Arterias contraÃ­das
+Tono simpático alto
+        ↓
+Musculatura lisa contraída
+        ↓
+Arterias contraídas
 Venas abiertas
-        â†“
-Flujo sanguÃ­neo MÃNIMO
-        â†“
-Pene flÃ¡cido
+        ↓
+Flujo sanguíneo MÍNIMO
+        ↓
+Pene flácido
 ```
 
-### ERECCIÃ“N:
+### ERECCIÓN:
 
-**Paso 1: EstimulaciÃ³n**
+**Paso 1: Estimulación**
 ```
-EstimulaciÃ³n sexual (fÃ­sica o psicÃ³gena)
-        â†“
-â†“ Tono simpÃ¡tico
-â†‘ ActivaciÃ³n parasimpÃ¡tica
+Estimulación sexual (física o psicógena)
+        ↓
+↓ Tono simpático
+↑ Activación parasimpática
 ```
 
-**Paso 2: LiberaciÃ³n de NO**
+**Paso 2: Liberación de NO**
 ```
 Nervios cavernosos liberan:
-â†’ Ã“xido NÃ­trico (NO)
-â†’ Acetilcolina
-        â†“
-NO entra a cÃ©lulas musculares lisas
+→ Óxido Nítrico (NO)
+→ Acetilcolina
+        ↓
+NO entra a células musculares lisas
 ```
 
-**Paso 3: Cascada de seÃ±alizaciÃ³n**
+**Paso 3: Cascada de señalización**
 ```
-NO â†’ Guanilato ciclasa
-    â†“
-â†‘ GMPc (segundo mensajero)
-    â†“
-ActivaciÃ³n de PKG
-    â†“
-â†“ CaÂ²âº intracelular
-    â†“
-RELAJACIÃ“N musculatura lisa
+NO → Guanilato ciclasa
+    ↓
+↑ GMPc (segundo mensajero)
+    ↓
+Activación de PKG
+    ↓
+↓ Ca²⁺ intracelular
+    ↓
+RELAJACIÓN musculatura lisa
 ```
 
-**Paso 4: Cambios hemodinÃ¡micos**
+**Paso 4: Cambios hemodinámicos**
 ```
-RelajaciÃ³n muscular
-        â†“
-VASODILATACIÃ“N arterias
-        â†“
-â†‘â†‘ Flujo sanguÃ­neo (x10-50)
-        â†“
+Relajación muscular
+        ↓
+VASODILATACIÓN arterias
+        ↓
+↑↑ Flujo sanguíneo (x10-50)
+        ↓
 Llenado de sinusoides
-        â†“
-CompresiÃ³n de venas contra tÃºnica albugÃ­nea
-        â†“
-â†“ Drenaje venoso (mecanismo veno-oclusivo)
-        â†“
-ERECCIÃ“N mantenida
+        ↓
+Compresión de venas contra túnica albugínea
+        ↓
+↓ Drenaje venoso (mecanismo veno-oclusivo)
+        ↓
+ERECCIÓN mantenida
 ```
 
 ---
 
-## InervaciÃ³n del Pene
+## Inervación del Pene
 
-| Sistema | FunciÃ³n |
+| Sistema | Función |
 |---------|---------|
-| **ParasimpÃ¡tico** | ErecciÃ³n (nervios cavernosos S2-S4) |
-| **SimpÃ¡tico** | EmisiÃ³n, eyaculaciÃ³n, detumescencia (T10-L2) |
-| **SomÃ¡tico** | Sensibilidad, contracciÃ³n mÃºsculos bulboesponjoso |
+| **Parasimpático** | Erección (nervios cavernosos S2-S4) |
+| **Simpático** | Emisión, eyaculación, detumescencia (T10-L2) |
+| **Somático** | Sensibilidad, contracción músculos bulboesponjoso |
 
 ---
 
-## ðŸ’Š DisfunciÃ³n ErÃ©ctil (DE)
+## 💊 Disfunción Eréctil (DE)
 
-### EpidemiologÃ­a:
+### Epidemiología:
 
 ```
-> 50% de hombres entre 40-70 aÃ±os
-tienen algÃºn grado de DE
+> 50% de hombres entre 40-70 años
+tienen algún grado de DE
 ```
 
 ### Causas:
 
-**Vasculares** (mÃ¡s comÃºn):
+**Vasculares** (más común):
 ```
-â†’ Aterosclerosis
-â†’ HipertensiÃ³n
-â†’ Diabetes
-â†’ Tabaquismo
+→ Aterosclerosis
+→ Hipertensión
+→ Diabetes
+→ Tabaquismo
 ```
 
-**NeurolÃ³gicas:**
+**Neurológicas:**
 ```
-â†’ Lesiones medulares
-â†’ Esclerosis mÃºltiple
-â†’ NeuropatÃ­a diabÃ©tica
+→ Lesiones medulares
+→ Esclerosis múltiple
+→ Neuropatía diabética
 ```
 
 **Hormonales:**
 ```
-â†’ Hipogonadismo
-â†’ Hiperprolactinemia
+→ Hipogonadismo
+→ Hiperprolactinemia
 ```
 
-**PsicÃ³genas:**
+**Psicógenas:**
 ```
-â†’ Ansiedad
-â†’ DepresiÃ³n
-â†’ EstrÃ©s
+→ Ansiedad
+→ Depresión
+→ Estrés
 ```
 
 ### Tratamiento:
@@ -1737,34 +1737,34 @@ tienen algÃºn grado de DE
 Sildenafil (Viagra)
 Tadalafil (Cialis)
 Vardenafil (Levitra)
-        â†“
-Inhiben degradaciÃ³n de GMPc
-        â†“
+        ↓
+Inhiben degradación de GMPc
+        ↓
 Prolongan efecto de NO
-        â†“
-Facilitan erecciÃ³n
+        ↓
+Facilitan erección
 ```
 
 **Mecanismo:**
 ```
-NO â†’ â†‘ GMPc â†’ ErecciÃ³n
-        â†“
+NO → ↑ GMPc → Erección
+        ↓
     PDE5 (normalmente degrada GMPc)
-        â†“
-Inhibidores PDE5 bloquean esta degradaciÃ³n
-        â†“
-GMPc dura mÃ¡s tiempo
-        â†“
-ErecciÃ³n mÃ¡s fÃ¡cil y prolongada
+        ↓
+Inhibidores PDE5 bloquean esta degradación
+        ↓
+GMPc dura más tiempo
+        ↓
+Erección más fácil y prolongada
 ```
 
 ---
 
-# ðŸ”´ SISTEMA REPRODUCTOR FEMENINO
+# 🔴 SISTEMA REPRODUCTOR FEMENINO
 
-## ðŸ“ AnatomÃ­a General
+## 📍 Anatomía General
 
-### GÃ³nadas:
+### Gónadas:
 ```
 OVARIOS (2)
 ```
@@ -1772,261 +1772,261 @@ OVARIOS (2)
 ### Tracto Reproductor:
 ```
 TROMPAS DE FALOPIO (oviductos)
-        â†“
-ÃšTERO
-        â†“
-CUELLO UTERINO (cÃ©rvix)
-        â†“
+        ↓
+ÚTERO
+        ↓
+CUELLO UTERINO (cérvix)
+        ↓
 VAGINA
-        â†“
+        ↓
 GENITALES EXTERNOS (vulva)
 ```
 
 ---
 
-# ðŸ¥š OVARIOS: GÃ³nadas Femeninas
+# 🥚 OVARIOS: Gónadas Femeninas
 
 ## Estructura del Ovario
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚   CORTEZA (externa)    â”‚ â† FolÃ­culos ovÃ¡ricos
-â”‚                        â”‚
-â”‚   â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”     â”‚
-â”‚   â”‚ MÃ‰DULA       â”‚     â”‚ â† Vasos sanguÃ­neos
-â”‚   â”‚ (interna)    â”‚     â”‚    Tejido conectivo
-â”‚   â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜     â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+┌────────────────────────┐
+│   CORTEZA (externa)    │ ← Folículos ováricos
+│                        │
+│   ┌──────────────┐     │
+│   │ MÉDULA       │     │ ← Vasos sanguíneos
+│   │ (interna)    │     │    Tejido conectivo
+│   └──────────────┘     │
+└────────────────────────┘
 ```
 
 ### Corteza Externa:
 
 **Contiene:**
-- **TÃºnica albugÃ­nea** (capa de tejido conectivo)
-- **FolÃ­culos ovÃ¡ricos** (unidad funcional)
-- Capa de cÃ©lulas epiteliales proliferativas
+- **Túnica albugínea** (capa de tejido conectivo)
+- **Folículos ováricos** (unidad funcional)
+- Capa de células epiteliales proliferativas
 
-### MÃ©dula Interna:
+### Médula Interna:
 
 **Contiene:**
-- Vasos sanguÃ­neos
+- Vasos sanguíneos
 - Nervios
 - Tejido conectivo laxo
 
 ---
 
-# ðŸŒ¸ FOLÃCULO OVÃRICO: Unidad Funcional
+# 🌸 FOLÍCULO OVÁRICO: Unidad Funcional
 
-## Doble FunciÃ³n del FolÃ­culo:
+## Doble Función del Folículo:
 
-1. **GAMETOGÃ‰NESIS:** ProducciÃ³n de Ã³vulos
-2. **ENDOCRINA:** ProducciÃ³n de hormonas (estrÃ³genos, progesterona)
+1. **GAMETOGÉNESIS:** Producción de óvulos
+2. **ENDOCRINA:** Producción de hormonas (estrógenos, progesterona)
 
 ---
 
 ## Desarrollo Embrionario de Gametos Femeninos
 
-### Durante GESTACIÃ“N (vida fetal):
+### Durante GESTACIÓN (vida fetal):
 
 ```
-CÃ©lulas germinales primordiales
-        â†“ Mitosis
+Células germinales primordiales
+        ↓ Mitosis
 OVOGONIAS (diploides 2n) - Millones
-        â†“
+        ↓
 INICIAN Meiosis I
-        â†“
-OVOCITOS PRIMARIOS (tÃ©cnicamente n, pero con DNA duplicado)
-        â†“
+        ↓
+OVOCITOS PRIMARIOS (técnicamente n, pero con DNA duplicado)
+        ↓
 ARRESTO en PROFASE I
-        â†“
-Se rodean de cÃ©lulas foliculares planas
-        â†“
-FOLÃCULOS PRIMORDIALES
+        ↓
+Se rodean de células foliculares planas
+        ↓
+FOLÍCULOS PRIMORDIALES
 ```
 
-### Reserva OvÃ¡rica:
+### Reserva Ovárica:
 
 ```
-GestaciÃ³n media: ~7 millones de folÃ­culos
+Gestación media: ~7 millones de folículos
 Nacimiento: ~1-2 millones
 Pubertad/menarquia: ~300,000
 Menopausia: ~1,000
 ```
 
 **De estos 300,000:**
-- Solo ~450 ovularÃ¡n en vida reproductiva
+- Solo ~450 ovularán en vida reproductiva
 - Resto: **Atresia folicular** (muerte programada)
 
 ---
 
-# ðŸ”„ CICLO VITAL DEL FOLÃCULO OVÃRICO
+# 🔄 CICLO VITAL DEL FOLÍCULO OVÁRICO
 
-## 1ï¸âƒ£ FOLÃCULO PRIMORDIAL (En Reposo)
+## 1️⃣ FOLÍCULO PRIMORDIAL (En Reposo)
 
-**CaracterÃ­sticas:**
+**Características:**
 ```
-â†’ Ovocito primario arrestado en Profase I
-â†’ Rodeado de cÃ©lulas foliculares PLANAS
-â†’ DiÃ¡metro: 25-50 Î¼m
-â†’ Reserva ovÃ¡rica
-â†’ Puede permanecer dÃ©cadas en reposo
+→ Ovocito primario arrestado en Profase I
+→ Rodeado de células foliculares PLANAS
+→ Diámetro: 25-50 μm
+→ Reserva ovárica
+→ Puede permanecer décadas en reposo
 ```
 
 ---
 
-## 2ï¸âƒ£ FOLÃCULO PRE-ANTRAL (En Crecimiento)
+## 2️⃣ FOLÍCULO PRE-ANTRAL (En Crecimiento)
 
-### FolÃ­culo Primario:
-
-```
-â†’ CÃ©lulas foliculares se vuelven CUBOIDALES
-â†’ Forman UNA CAPA alrededor del ovocito
-â†’ CÃ©lulas ahora llamadas "cÃ©lulas de la granulosa"
-â†’ Ovocito crece (aumenta citoplasma)
-â†’ Forma ZONA PELÃšCIDA (capa glicoproteica alrededor del ovocito)
-```
-
-### FolÃ­culo Secundario:
+### Folículo Primario:
 
 ```
-â†’ CÃ©lulas de la granulosa PROLIFERAN
-â†’ Forman MÃšLTIPLES CAPAS (epitelio estratificado, 3-6 capas)
-â†’ Ovocito sigue creciendo
-â†’ Aparecen receptores de FSH en cÃ©lulas de la granulosa
+→ Células foliculares se vuelven CUBOIDALES
+→ Forman UNA CAPA alrededor del ovocito
+→ Células ahora llamadas "células de la granulosa"
+→ Ovocito crece (aumenta citoplasma)
+→ Forma ZONA PELÚCIDA (capa glicoproteica alrededor del ovocito)
 ```
 
-**AnalogÃ­a:** CÃ©lulas de la granulosa = CÃ©lulas de Sertoli
+### Folículo Secundario:
+
+```
+→ Células de la granulosa PROLIFERAN
+→ Forman MÚLTIPLES CAPAS (epitelio estratificado, 3-6 capas)
+→ Ovocito sigue creciendo
+→ Aparecen receptores de FSH en células de la granulosa
+```
+
+**Analogía:** Células de la granulosa = Células de Sertoli
 
 ---
 
-## 3ï¸âƒ£ FOLÃCULO ANTRAL (En Crecimiento)
+## 3️⃣ FOLÍCULO ANTRAL (En Crecimiento)
 
 ### Cambios estructurales:
 
-**FormaciÃ³n de cÃ©lulas de la TECA:**
+**Formación de células de la TECA:**
 ```
-CÃ©lulas de la granulosa secretan factores paracrinos
-        â†“
-Diferencian cÃ©lulas del estroma â†’ CÃ‰LULAS DE LA TECA
-        â†“
-Se organizan en capas alrededor del folÃ­culo:
-â†’ Teca interna (vascularizada, esteroidogÃ©nica)
-â†’ Teca externa (fibrosa)
+Células de la granulosa secretan factores paracrinos
+        ↓
+Diferencian células del estroma → CÉLULAS DE LA TECA
+        ↓
+Se organizan en capas alrededor del folículo:
+→ Teca interna (vascularizada, esteroidogénica)
+→ Teca externa (fibrosa)
 ```
 
-**AnalogÃ­a:** CÃ©lulas de la teca = CÃ©lulas de Leydig
+**Analogía:** Células de la teca = Células de Leydig
 
-**FormaciÃ³n del ANTRO (cavidad):**
+**Formación del ANTRO (cavidad):**
 ```
-Entre cÃ©lulas de la granulosa aparecen espacios
-        â†“
-Llenos de LÃQUIDO FOLICULAR
-        â†“
+Entre células de la granulosa aparecen espacios
+        ↓
+Llenos de LÍQUIDO FOLICULAR
+        ↓
 Coalescen formando CAVIDAD ANTRAL
-        â†“
-Separa cÃ©lulas de la granulosa en:
-â†’ MURALES (pared del folÃ­culo, esteroidogÃ©nicas)
-â†’ DEL CÃšMULO (rodean al ovocito, nutriciÃ³n)
+        ↓
+Separa células de la granulosa en:
+→ MURALES (pared del folículo, esteroidogénicas)
+→ DEL CÚMULO (rodean al ovocito, nutrición)
 ```
 
-**DiÃ¡metro:** 2-10 mm
+**Diámetro:** 2-10 mm
 
 ---
 
-## 4ï¸âƒ£ FOLÃCULO DOMINANTE PRE-OVULATORIO (De Graaf)
+## 4️⃣ FOLÍCULO DOMINANTE PRE-OVULATORIO (De Graaf)
 
-### Proceso de SelecciÃ³n Folicular:
+### Proceso de Selección Folicular:
 
 **Al final del ciclo menstrual previo:**
 ```
-â†“ Progesterona (muerte cuerpo lÃºteo)
-        â†“
-â†‘ FSH hipofisiaria
-        â†“
-RECLUTAMIENTO: >20 folÃ­culos antrales comienzan a crecer
+↓ Progesterona (muerte cuerpo lúteo)
+        ↓
+↑ FSH hipofisiaria
+        ↓
+RECLUTAMIENTO: >20 folículos antrales comienzan a crecer
 ```
 
 **Durante primera semana del ciclo:**
 ```
-FolÃ­culos reclutados compiten
-        â†“
-â†‘ EstrÃ³genos + â†‘ Inhibina
-        â†“
+Folículos reclutados compiten
+        ↓
+↑ Estrógenos + ↑ Inhibina
+        ↓
 Feedback negativo sobre FSH
-        â†“
-â†“ FSH (solo el folÃ­culo con MÃS receptores FSH sobrevive)
-        â†“
-SELECCIÃ“N: 1 folÃ­culo dominante
-        â†“
+        ↓
+↓ FSH (solo el folículo con MÁS receptores FSH sobrevive)
+        ↓
+SELECCIÓN: 1 folículo dominante
+        ↓
 Resto: ATRESIA FOLICULAR
 ```
 
-**CaracterÃ­sticas del folÃ­culo dominante:**
+**Características del folículo dominante:**
 ```
-â†’ Mayor tamaÃ±o
-â†’ MÃ¡s receptores FSH
-â†’ MÃ¡s cÃ©lulas de la granulosa (~50 millones)
-â†’ Antro grande
-â†’ DiÃ¡metro: 20 mm (Â¡visible en ecografÃ­a!)
+→ Mayor tamaño
+→ Más receptores FSH
+→ Más células de la granulosa (~50 millones)
+→ Antro grande
+→ Diámetro: 20 mm (¡visible en ecografía!)
 ```
 
 **Cambios en el ovocito:**
 ```
 Durante fase antral el ovocito sintetiza:
-â†’ Componentes del ciclo celular
-â†’ mRNA materno
-â†’ ProteÃ­nas reguladoras
-        â†“
-Se hace COMPETENTE para completar meiosis en ovulaciÃ³n
-        â†“
-Pero aÃºn arrestado en Profase I
+→ Componentes del ciclo celular
+→ mRNA materno
+→ Proteínas reguladoras
+        ↓
+Se hace COMPETENTE para completar meiosis en ovulación
+        ↓
+Pero aún arrestado en Profase I
 ```
 
 ---
 
-## ðŸ­ FunciÃ³n EsteroidogÃ©nica: Modelo "Dos CÃ©lulas, Dos Gonadotropinas"
+## 🏭 Función Esteroidogénica: Modelo "Dos Células, Dos Gonadotropinas"
 
 ### Sistema Cooperativo entre Teca y Granulosa:
 
-**CÃ©lulas de la TECA (receptores LH):**
+**Células de la TECA (receptores LH):**
 
 ```
-LH â†’ Receptor LHR
-    â†“
-â†‘ LDLR, SR-B1 (captan colesterol)
-    â†“
-Colesterol â†’ VÃ­a esteroidogÃ©nica
-    â†“
+LH → Receptor LHR
+    ↓
+↑ LDLR, SR-B1 (captan colesterol)
+    ↓
+Colesterol → Vía esteroidogénica
+    ↓
 ANDROSTENODIONA (principal)
 Testosterona (menor cantidad)
-    â†“
-Difunden hacia cÃ©lulas de la granulosa
+    ↓
+Difunden hacia células de la granulosa
 ```
 
-**CÃ©lulas de la GRANULOSA Murales (receptores FSH):**
+**Células de la GRANULOSA Murales (receptores FSH):**
 
 ```
-FSH â†’ Receptor FSHR
-    â†“
-â†‘ AROMATASA (enzima clave)
-    â†“
+FSH → Receptor FSHR
+    ↓
+↑ AROMATASA (enzima clave)
+    ↓
 Androstenodiona + Aromatasa
-    â†“
-ESTRÃ“GENOS:
-â†’ ESTRADIOL (principal)
-â†’ ESTRONA
+    ↓
+ESTRÓGENOS:
+→ ESTRADIOL (principal)
+→ ESTRONA
 ```
 
 **Resultado:**
 ```
-FolÃ­culo dominante = GlÃ¡ndula productora de ESTRÃ“GENOS
+Folículo dominante = Glándula productora de ESTRÓGENOS
 ```
 
 ---
 
-## 5ï¸âƒ£ PERÃODO PERIOVULATORIO (OvulaciÃ³n)
+## 5️⃣ PERÍODO PERIOVULATORIO (Ovulación)
 
-**DefiniciÃ³n:** Tiempo entre pico de LH y ovulaciÃ³n = **32-36 horas**
+**Definición:** Tiempo entre pico de LH y ovulación = **32-36 horas**
 
 ### Eventos Desencadenados por PICO DE LH:
 
@@ -2034,748 +2034,748 @@ FolÃ­culo dominante = GlÃ¡ndula productora de ESTRÃ“GENOS
 
 ```
 Pico de LH
-        â†“
-SeÃ±al al ovocito (vÃ­a cÃ©lulas del cÃºmulo)
-        â†“
-Rotura de VESÃCULA GERMINAL (membrana nuclear)
-        â†“
+        ↓
+Señal al ovocito (vía células del cúmulo)
+        ↓
+Rotura de VESÍCULA GERMINAL (membrana nuclear)
+        ↓
 Ovocito COMPLETA Meiosis I
-        â†“
-DivisiÃ³n asimÃ©trica:
-â†’ OVOCITO SECUNDARIO (grande, casi todo el citoplasma)
-â†’ Primer corpÃºsculo polar (pequeÃ±o, se degenera)
-        â†“
+        ↓
+División asimétrica:
+→ OVOCITO SECUNDARIO (grande, casi todo el citoplasma)
+→ Primer corpúsculo polar (pequeño, se degenera)
+        ↓
 Ovocito secundario INICIA Meiosis II
-        â†“
+        ↓
 ARRESTO en METAFASE II
-        â†“
-Solo completarÃ¡ si es FECUNDADO
+        ↓
+Solo completará si es FECUNDADO
 ```
 
-#### Evento 2: ExpansiÃ³n del CÃºmulo
+#### Evento 2: Expansión del Cúmulo
 
 ```
 Pico de LH
-        â†“
-CÃ©lulas del cÃºmulo secretan:
-â†’ Ãcido hialurÃ³nico
-â†’ ProteÃ­nas de matriz
-        â†“
-EXPANSIÃ“N del complejo cÃºmulo-ovocito
-        â†“
-PreparaciÃ³n para liberaciÃ³n
+        ↓
+Células del cúmulo secretan:
+→ Ácido hialurónico
+→ Proteínas de matriz
+        ↓
+EXPANSIÓN del complejo cúmulo-ovocito
+        ↓
+Preparación para liberación
 ```
 
-#### Evento 3: OVULACIÃ“N (Ruptura Folicular)
+#### Evento 3: OVULACIÓN (Ruptura Folicular)
 
 **Mecanismo:**
 
 ```
-FolÃ­culo pre-ovulatorio crece
-        â†“
+Folículo pre-ovulatorio crece
+        ↓
 Presiona contra superficie del ovario
-        â†“
+        ↓
 Forma "ESTIGMA" (punto de ruptura)
 ```
 
 ```
-Pico de LH induce producciÃ³n de:
-â†’ Citoquinas proinflamatorias (IL-1, IL-6)
-â†’ Prostaglandinas
-â†’ Enzimas hidrolÃ­ticas (colagenasa, plasmina)
-        â†“
-DegradaciÃ³n de pared folicular y estigma
-        â†“
+Pico de LH induce producción de:
+→ Citoquinas proinflamatorias (IL-1, IL-6)
+→ Prostaglandinas
+→ Enzimas hidrolíticas (colagenasa, plasmina)
+        ↓
+Degradación de pared folicular y estigma
+        ↓
 RUPTURA
-        â†“
-LiberaciÃ³n del COMPLEJO CÃšMULO-OVOCITO
-        â†“
+        ↓
+Liberación del COMPLEJO CÚMULO-OVOCITO
+        ↓
 Captado por fimbrias de trompa de Falopio
 ```
 
 ```
 Antro se llena de sangre (vasos rotos)
-        â†“
-Inicio de transformaciÃ³n en cuerpo lÃºteo
+        ↓
+Inicio de transformación en cuerpo lúteo
 ```
 
-#### Evento 4: LUTEINIZACIÃ“N
+#### Evento 4: LUTEINIZACIÓN
 
 ```
 Pico de LH transforma:
-CÃ©lulas de la teca + CÃ©lulas de la granulosa
-        â†“
-CÃ‰LULAS LUTEÃNICAS
-        â†“
-FormaciÃ³n del CUERPO LÃšTEO
+Células de la teca + Células de la granulosa
+        ↓
+CÉLULAS LUTEÍNICAS
+        ↓
+Formación del CUERPO LÚTEO
 ```
 
 ---
 
-## 6ï¸âƒ£ CUERPO LÃšTEO
+## 6️⃣ CUERPO LÚTEO
 
-**DefiniciÃ³n:** GlÃ¡ndula endocrina temporal formada post-ovulaciÃ³n
+**Definición:** Glándula endocrina temporal formada post-ovulación
 
-### CaracterÃ­sticas:
+### Características:
 
 ```
-â†’ Formado por cÃ©lulas de teca y granulosa luteinizadas
-â†’ Color amarillento (acumulaciÃ³n de lÃ­pidos)
-â†’ Altamente vascularizado (angiogÃ©nesis)
-â†’ Vida media: ~14 dÃ­as (fase lÃºtea)
+→ Formado por células de teca y granulosa luteinizadas
+→ Color amarillento (acumulación de lípidos)
+→ Altamente vascularizado (angiogénesis)
+→ Vida media: ~14 días (fase lútea)
 ```
 
-### ProducciÃ³n Hormonal:
+### Producción Hormonal:
 
 **Principal productor de:**
 ```
-â†’ PROGESTERONA (hormona dominante en fase lÃºtea)
-â†’ EstrÃ³genos (menor cantidad que fase folicular)
-â†’ Inhibina A
+→ PROGESTERONA (hormona dominante en fase lútea)
+→ Estrógenos (menor cantidad que fase folicular)
+→ Inhibina A
 ```
 
 ### Funciones de la Progesterona:
 
 ```
-â†’ PreparaciÃ³n del endometrio para implantaciÃ³n
-â†’ Mantenimiento del embarazo temprano
-â†’ â†“ Contractilidad uterina
-â†’ â†“ Respuesta inmune (permite implantaciÃ³n)
-â†’ Desarrollo de glÃ¡ndulas mamarias
-â†’ â†‘ Temperatura basal corporal
+→ Preparación del endometrio para implantación
+→ Mantenimiento del embarazo temprano
+→ ↓ Contractilidad uterina
+→ ↓ Respuesta inmune (permite implantación)
+→ Desarrollo de glándulas mamarias
+→ ↑ Temperatura basal corporal
 ```
 
-### Destino del Cuerpo LÃºteo:
+### Destino del Cuerpo Lúteo:
 
-**Si NO hay fecundaciÃ³n:**
+**Si NO hay fecundación:**
 ```
-DÃ­a 14 post-ovulaciÃ³n (sin rescate)
-        â†“
-LUTEÃ“LISIS (regresiÃ³n)
-        â†“
-â†“â†“ Progesterona
-â†“â†“ EstrÃ³genos
-        â†“
-Cuerpo lÃºteo â†’ CUERPO ALBICANS (cicatriz blanquecina)
-        â†“
-â†“ Hormonas â†’ MENSTRUACIÃ“N
-        â†“
-â†‘ FSH â†’ Nuevo ciclo
+Día 14 post-ovulación (sin rescate)
+        ↓
+LUTEÓLISIS (regresión)
+        ↓
+↓↓ Progesterona
+↓↓ Estrógenos
+        ↓
+Cuerpo lúteo → CUERPO ALBICANS (cicatriz blanquecina)
+        ↓
+↓ Hormonas → MENSTRUACIÓN
+        ↓
+↑ FSH → Nuevo ciclo
 ```
 
-**Si HAY fecundaciÃ³n:**
+**Si HAY fecundación:**
 ```
-Blastocisto se implanta (dÃ­a 6-7 post-fecundaciÃ³n)
-        â†“
-Sincitiotrofoblasto produce hCG (gonadotropina coriÃ³nica)
-        â†“
-hCG "RESCATA" al cuerpo lÃºteo
-        â†“
-Cuerpo lÃºteo continÃºa produciendo progesterona
-        â†“
+Blastocisto se implanta (día 6-7 post-fecundación)
+        ↓
+Sincitiotrofoblasto produce hCG (gonadotropina coriónica)
+        ↓
+hCG "RESCATA" al cuerpo lúteo
+        ↓
+Cuerpo lúteo continúa produciendo progesterona
+        ↓
 Mantiene embarazo hasta semana 8-10
-        â†“
+        ↓
 Luego placenta toma control hormonal
 ```
 
 ---
 
-# ðŸ”„ CICLO MENSTRUAL Y REGULACIÃ“N HORMONAL
+# 🔄 CICLO MENSTRUAL Y REGULACIÓN HORMONAL
 
-**DuraciÃ³n promedio:** 28 dÃ­as (rango normal: 21-35 dÃ­as)
+**Duración promedio:** 28 días (rango normal: 21-35 días)
 
-## DivisiÃ³n del Ciclo:
+## División del Ciclo:
 
 ```
-DÃA 1: Inicio de menstruaciÃ³n
+DÍA 1: Inicio de menstruación
 
-FASE FOLICULAR OVÃRICA (dÃ­as 1-14, variable)
+FASE FOLICULAR OVÁRICA (días 1-14, variable)
     = FASE PROLIFERATIVA UTERINA
 
-OVULACIÃ“N (dÃ­a 14, aproximadamente)
+OVULACIÓN (día 14, aproximadamente)
 
-FASE LÃšTEA OVÃRICA (dÃ­as 15-28, constante ~14 dÃ­as)
+FASE LÚTEA OVÁRICA (días 15-28, constante ~14 días)
     = FASE SECRETORA UTERINA
 
-DÃA 28: Si no hay embarazo â†’ MENSTRUACIÃ“N
+DÍA 28: Si no hay embarazo → MENSTRUACIÓN
 ```
 
 ---
 
-## FASE FOLICULAR (DÃ­as 1-14)
+## FASE FOLICULAR (Días 1-14)
 
-### Eventos OvÃ¡ricos:
-
-```
-DÃ­a 1-5: MENSTRUACIÃ“N
-        â†“
-â†“ Progesterona (muerte cuerpo lÃºteo previo)
-â†“ EstrÃ³genos
-        â†“
-â†“ Feedback negativo
-        â†“
-â†‘ FSH hipofisiaria
-        â†“
-RECLUTAMIENTO de folÃ­culos antrales (>20)
-```
+### Eventos Ováricos:
 
 ```
-DÃ­a 5-14: CRECIMIENTO FOLICULAR
-        â†“
-FolÃ­culos reclutados crecen
-        â†“
-Producen estrÃ³genos + inhibina
-        â†“
+Día 1-5: MENSTRUACIÓN
+        ↓
+↓ Progesterona (muerte cuerpo lúteo previo)
+↓ Estrógenos
+        ↓
+↓ Feedback negativo
+        ↓
+↑ FSH hipofisiaria
+        ↓
+RECLUTAMIENTO de folículos antrales (>20)
+```
+
+```
+Día 5-14: CRECIMIENTO FOLICULAR
+        ↓
+Folículos reclutados crecen
+        ↓
+Producen estrógenos + inhibina
+        ↓
 Feedback negativo sobre FSH
-        â†“
-â†“ FSH â†’ SELECCIÃ“N (sobrevive folÃ­culo dominante)
-        â†“
-FolÃ­culo dominante â†‘â†‘ estrÃ³genos
-        â†“
-DÃ­a 12-13: CAMBIO A FEEDBACK POSITIVO
-        â†“
-â†‘â†‘ EstrÃ³genos (>200 pg/ml por >48h)
-        â†“
-Feedback positivo sobre hipÃ³fisis
-        â†“
+        ↓
+↓ FSH → SELECCIÓN (sobrevive folículo dominante)
+        ↓
+Folículo dominante ↑↑ estrógenos
+        ↓
+Día 12-13: CAMBIO A FEEDBACK POSITIVO
+        ↓
+↑↑ Estrógenos (>200 pg/ml por >48h)
+        ↓
+Feedback positivo sobre hipófisis
+        ↓
 PICO DE LH (y FSH en menor grado)
-        â†“
-DÃ­a 14: OVULACIÃ“N (32-36h post-pico LH)
+        ↓
+Día 14: OVULACIÓN (32-36h post-pico LH)
 ```
 
 ### Niveles Hormonales en Fase Folicular:
 
 ```
-FSH: Alta â†’ Luego baja
-LH: Baja â†’ PICO en dÃ­a 14
-EstrÃ³genos: Bajos â†’ Aumentan progresivamente â†’ MUY ALTOS pre-ovulaciÃ³n
+FSH: Alta → Luego baja
+LH: Baja → PICO en día 14
+Estrógenos: Bajos → Aumentan progresivamente → MUY ALTOS pre-ovulación
 Progesterona: MUY BAJA
 ```
 
 ---
 
-## OVULACIÃ“N (DÃ­a 14)
+## OVULACIÓN (Día 14)
 
 ```
 Pico de LH
-    â†“
-32-36 horas despuÃ©s
-    â†“
+    ↓
+32-36 horas después
+    ↓
 RUPTURA FOLICULAR
-    â†“
-LiberaciÃ³n complejo cÃºmulo-ovocito secundario
-    â†“
+    ↓
+Liberación complejo cúmulo-ovocito secundario
+    ↓
 Ovocito capturado por fimbrias de trompa
-    â†“
-Viaja hacia Ãºtero
-    â†“
+    ↓
+Viaja hacia útero
+    ↓
 Viable por 12-24 horas
 ```
 
 ---
 
-## FASE LÃšTEA (DÃ­as 15-28)
+## FASE LÚTEA (Días 15-28)
 
-### Eventos OvÃ¡ricos:
-
-```
-Post-ovulaciÃ³n
-        â†“
-FormaciÃ³n de CUERPO LÃšTEO
-        â†“
-â†‘â†‘ PROGESTERONA (hormona dominante)
-â†‘ EstrÃ³genos (menor que fase folicular)
-â†‘ Inhibina A
-        â†“
-Feedback negativo sobre hipÃ³fisis
-        â†“
-â†“ LH y FSH a niveles basales
-```
+### Eventos Ováricos:
 
 ```
-DÃ­a 15-28: MANTENIMIENTO
-        â†“
-Si NO hay fecundaciÃ³n:
-        â†“
-DÃ­a 24-28: LUTEÃ“LISIS
-        â†“
-â†“â†“ Progesterona
-â†“â†“ EstrÃ³genos
-        â†“
-DÃ­a 28-1: MENSTRUACIÃ“N
+Post-ovulación
+        ↓
+Formación de CUERPO LÚTEO
+        ↓
+↑↑ PROGESTERONA (hormona dominante)
+↑ Estrógenos (menor que fase folicular)
+↑ Inhibina A
+        ↓
+Feedback negativo sobre hipófisis
+        ↓
+↓ LH y FSH a niveles basales
 ```
 
-### Niveles Hormonales en Fase LÃºtea:
+```
+Día 15-28: MANTENIMIENTO
+        ↓
+Si NO hay fecundación:
+        ↓
+Día 24-28: LUTEÓLISIS
+        ↓
+↓↓ Progesterona
+↓↓ Estrógenos
+        ↓
+Día 28-1: MENSTRUACIÓN
+```
+
+### Niveles Hormonales en Fase Lútea:
 
 ```
 FSH: Baja
 LH: Baja
-EstrÃ³genos: Moderados
-Progesterona: MUY ALTA (pico dÃ­a 21)
+Estrógenos: Moderados
+Progesterona: MUY ALTA (pico día 21)
 ```
 
-**DuraciÃ³n:** Constante (~14 dÃ­as), a diferencia de fase folicular que es variable
+**Duración:** Constante (~14 días), a diferencia de fase folicular que es variable
 
 ---
 
-# ðŸ  CICLO UTERINO (Endometrio)
+# 🏠 CICLO UTERINO (Endometrio)
 
-## Estructura del Ãštero:
+## Estructura del Útero:
 
 ```
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚   PERIMETRIO       â”‚ â† Capa externa (serosa)
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚   MIOMETRIO        â”‚ â† MÃºsculo liso (3 capas)
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚   ENDOMETRIO       â”‚ â† Mucosa (2 capas)
-â”‚   - Funcional      â”‚   â† Se pierde en menstruaciÃ³n
-â”‚   - Basal          â”‚   â† Persiste, regenera funcional
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+┌────────────────────┐
+│   PERIMETRIO       │ ← Capa externa (serosa)
+├────────────────────┤
+│   MIOMETRIO        │ ← Músculo liso (3 capas)
+├────────────────────┤
+│   ENDOMETRIO       │ ← Mucosa (2 capas)
+│   - Funcional      │   ← Se pierde en menstruación
+│   - Basal          │   ← Persiste, regenera funcional
+└────────────────────┘
 ```
 
 ---
 
-## MENSTRUACIÃ“N (DÃ­as 1-5)
+## MENSTRUACIÓN (Días 1-5)
 
-**Causa:** â†“â†“ Progesterona y estrÃ³genos (muerte cuerpo lÃºteo)
+**Causa:** ↓↓ Progesterona y estrógenos (muerte cuerpo lúteo)
 
 ```
-â†“ Progesterona
-        â†“
-VasoconstricciÃ³n de arterias espirales
-        â†“
+↓ Progesterona
+        ↓
+Vasoconstricción de arterias espirales
+        ↓
 Isquemia del endometrio funcional
-        â†“
+        ↓
 Necrosis tisular
-        â†“
-LiberaciÃ³n de prostaglandinas
-        â†“
-ContracciÃ³n miometrial (dolor/cÃ³licos)
-        â†“
+        ↓
+Liberación de prostaglandinas
+        ↓
+Contracción miometrial (dolor/cólicos)
+        ↓
 Desprendimiento capa funcional (2/3 superiores)
-        â†“
+        ↓
 SANGRADO MENSTRUAL
 ```
 
 **Volumen:** 30-80 ml de sangre y tejido
 
-**CaracterÃ­sticas:**
+**Características:**
 - Sangre no coagula (fibrinolisinas locales)
 - Contiene endometrio descamado
 
 **Lo que QUEDA:**
 - Capa BASAL del endometrio (1/3 inferior)
-- Contiene cÃ©lulas madre
-- RegenerarÃ¡ nueva capa funcional
+- Contiene células madre
+- Regenerará nueva capa funcional
 
 ---
 
-## FASE PROLIFERATIVA (DÃ­as 5-14)
+## FASE PROLIFERATIVA (Días 5-14)
 
-**Coincide con:** Fase folicular ovÃ¡rica
+**Coincide con:** Fase folicular ovárica
 
-**Hormona dominante:** ESTRÃ“GENOS (del folÃ­culo en desarrollo)
+**Hormona dominante:** ESTRÓGENOS (del folículo en desarrollo)
 
-### Efectos de EstrÃ³genos en Endometrio:
+### Efectos de Estrógenos en Endometrio:
 
 ```
-â†‘ EstrÃ³genos
-        â†“
-PROLIFERACIÃ“N:
-â†’ RegeneraciÃ³n del epitelio desde capa basal
-â†’ â†‘ Mitosis de cÃ©lulas epiteliales y estromales
-â†’ Crecimiento de glÃ¡ndulas uterinas (rectas, simples)
-â†’ AngiogÃ©nesis (nuevos vasos sanguÃ­neos)
-â†’ â†‘ Grosor endometrio (2-3 mm â†’ 8-10 mm)
-        â†“
-PreparaciÃ³n para fase secretora
-        â†“
-â†‘ ExpresiÃ³n de RECEPTORES DE PROGESTERONA
-        â†“
-Endometrio listo para acciÃ³n de progesterona
+↑ Estrógenos
+        ↓
+PROLIFERACIÓN:
+→ Regeneración del epitelio desde capa basal
+→ ↑ Mitosis de células epiteliales y estromales
+→ Crecimiento de glándulas uterinas (rectas, simples)
+→ Angiogénesis (nuevos vasos sanguíneos)
+→ ↑ Grosor endometrio (2-3 mm → 8-10 mm)
+        ↓
+Preparación para fase secretora
+        ↓
+↑ Expresión de RECEPTORES DE PROGESTERONA
+        ↓
+Endometrio listo para acción de progesterona
 ```
 
 ---
 
-## FASE SECRETORA (DÃ­as 15-28)
+## FASE SECRETORA (Días 15-28)
 
-**Coincide con:** Fase lÃºtea ovÃ¡rica
+**Coincide con:** Fase lútea ovárica
 
-**Hormona dominante:** PROGESTERONA (del cuerpo lÃºteo)
+**Hormona dominante:** PROGESTERONA (del cuerpo lúteo)
 
 ### Efectos de Progesterona en Endometrio:
 
 ```
-â†‘ Progesterona
-        â†“
-DIFERENCIACIÃ“N SECRETORA:
-â†’ GlÃ¡ndulas uterinas se vuelven TORTUOSAS
-â†’ Secretan:
-  - GlucÃ³geno
-  - LÃ­pidos
-  - ProteÃ­nas
-  (nutrientes para embriÃ³n)
-â†’ Edema estromal (retenciÃ³n de lÃ­quido)
-â†’ Arterias espirales se desarrollan
-â†’ â†‘ Grosor mÃ¡ximo (10-16 mm)
-â†’ "Ventana de implantaciÃ³n" (dÃ­as 20-24)
-        â†“
-Endometrio RECEPTIVO para implantaciÃ³n
+↑ Progesterona
+        ↓
+DIFERENCIACIÓN SECRETORA:
+→ Glándulas uterinas se vuelven TORTUOSAS
+→ Secretan:
+  - Glucógeno
+  - Lípidos
+  - Proteínas
+  (nutrientes para embrión)
+→ Edema estromal (retención de líquido)
+→ Arterias espirales se desarrollan
+→ ↑ Grosor máximo (10-16 mm)
+→ "Ventana de implantación" (días 20-24)
+        ↓
+Endometrio RECEPTIVO para implantación
 ```
 
-**Si NO hay implantaciÃ³n:**
+**Si NO hay implantación:**
 ```
-DÃ­a 24-28: â†“â†“ Progesterona
-        â†“
+Día 24-28: ↓↓ Progesterona
+        ↓
 Endometrio se vuelve insostenible
-        â†“
-MENSTRUACIÃ“N
+        ↓
+MENSTRUACIÓN
 ```
 
-**Si HAY implantaciÃ³n:**
+**Si HAY implantación:**
 ```
-Blastocisto se implanta (dÃ­a 20-24 del ciclo)
-        â†“
-hCG rescata cuerpo lÃºteo
-        â†“
+Blastocisto se implanta (día 20-24 del ciclo)
+        ↓
+hCG rescata cuerpo lúteo
+        ↓
 Progesterona se mantiene alta
-        â†“
+        ↓
 Endometrio se mantiene
-        â†“
+        ↓
 EMBARAZO
 ```
 
 ---
 
-# ðŸŒŠ TROMPAS DE FALOPIO (Oviductos)
+# 🌊 TROMPAS DE FALOPIO (Oviductos)
 
 ## Estructura:
 
 ```
 FIMBRIAS (captan ovocito)
-    â†“
-INFUNDÃBULO
-    â†“
-AMPOLLA (sitio de fecundaciÃ³n)
-    â†“
+    ↓
+INFUNDÍBULO
+    ↓
+AMPOLLA (sitio de fecundación)
+    ↓
 ISTMO
-    â†“
-PORCIÃ“N INTRAMURAL (atraviesa pared uterina)
+    ↓
+PORCIÓN INTRAMURAL (atraviesa pared uterina)
 ```
 
 ## Funciones:
 
 ```
-â†’ CaptaciÃ³n del ovocito (fimbrias)
-â†’ Transporte del ovocito hacia Ãºtero
-â†’ Sitio de FECUNDACIÃ“N (ampolla)
-â†’ Transporte del embriÃ³n temprano
-â†’ NutriciÃ³n del embriÃ³n (secreciones tubÃ¡ricas)
+→ Captación del ovocito (fimbrias)
+→ Transporte del ovocito hacia útero
+→ Sitio de FECUNDACIÓN (ampolla)
+→ Transporte del embrión temprano
+→ Nutrición del embrión (secreciones tubáricas)
 ```
 
 **Mecanismo de transporte:**
 - Cilios (movimiento)
 - Contracciones musculares
-- DuraciÃ³n: 3-4 dÃ­as desde ovulaciÃ³n hasta Ãºtero
+- Duración: 3-4 días desde ovulación hasta útero
 
 ---
 
-# ðŸ’Š MÃ‰TODOS ANTICONCEPTIVOS
+# 💊 MÉTODOS ANTICONCEPTIVOS
 
 ## Anticonceptivos Orales Combinados (AOC)
 
-**ComposiciÃ³n:**
-- Etinilestradiol (estrÃ³geno sintÃ©tico)
-- Progestina (progesterona sintÃ©tica)
+**Composición:**
+- Etinilestradiol (estrógeno sintético)
+- Progestina (progesterona sintética)
 
-**Mecanismo de acciÃ³n:**
+**Mecanismo de acción:**
 
 ```
-EstrÃ³geno + Progestina
-        â†“
+Estrógeno + Progestina
+        ↓
 Feedback negativo constante
-        â†“
-â†“ GnRH
-â†“ LH y FSH
-        â†“
+        ↓
+↓ GnRH
+↓ LH y FSH
+        ↓
 NO hay pico de LH
-        â†“
-NO HAY OVULACIÃ“N (principal)
-        â†“
-AdemÃ¡s:
-â†’ Moco cervical espeso (dificulta paso espermatozoides)
-â†’ Endometrio delgado (dificulta implantaciÃ³n)
+        ↓
+NO HAY OVULACIÓN (principal)
+        ↓
+Además:
+→ Moco cervical espeso (dificulta paso espermatozoides)
+→ Endometrio delgado (dificulta implantación)
 ```
 
 **Eficacia:** >99% con uso perfecto
 
 ---
 
-## Otros MÃ©todos Hormonales:
+## Otros Métodos Hormonales:
 
 **Progesterona sola:**
 ```
-â†’ MinipÃ­ldora
-â†’ Implante subdÃ©rmico
-â†’ DIU hormonal
-â†’ InyecciÃ³n trimestral
+→ Minipíldora
+→ Implante subdérmico
+→ DIU hormonal
+→ Inyección trimestral
 ```
 
 **Mecanismo:**
 - Espesamiento moco cervical (principal)
-- InhibiciÃ³n ovulaciÃ³n (parcial)
+- Inhibición ovulación (parcial)
 - Adelgazamiento endometrio
 
 ---
 
-# ðŸš« Trastornos del Deseo Sexual
+# 🚫 Trastornos del Deseo Sexual
 
-**EstadÃ­stica relevante:**
+**Estadística relevante:**
 ```
-20% de mujeres <45 aÃ±os
-40% de mujeres >50 aÃ±os
+20% de mujeres <45 años
+40% de mujeres >50 años
 Diagnosticadas con:
-â†’ SÃ­ndrome de Deseo Sexual Inhibido (DSI)
-â†’ Trastorno del Deseo Sexual Hipoactivo (TDSH)
+→ Síndrome de Deseo Sexual Inhibido (DSI)
+→ Trastorno del Deseo Sexual Hipoactivo (TDSH)
 ```
 
 **"Viagra femenino"** (Flibanserina):
-- ActÃºa en SNC (no vascular como en hombres)
-- Modula neurotransmisores (â†‘ dopamina, â†“ serotonina)
+- Actúa en SNC (no vascular como en hombres)
+- Modula neurotransmisores (↑ dopamina, ↓ serotonina)
 - Eficacia controvertida
 
 ---
 
-# ðŸ’‘ FECUNDACIÃ“N
+# 💑 FECUNDACIÓN
 
-**DefiniciÃ³n:** FusiÃ³n de espermatozoide y ovocito secundario
+**Definición:** Fusión de espermatozoide y ovocito secundario
 
 **Sitio:** Ampolla de la trompa de Falopio
 
-**Tiempo:** Ocurre dÃ­a 16-17 del ciclo menstrual (1-2 dÃ­as post-ovulaciÃ³n)
+**Tiempo:** Ocurre día 16-17 del ciclo menstrual (1-2 días post-ovulación)
 
 ---
 
 ## Requisitos Previos
 
-### 1. CAPACITACIÃ“N del Espermatozoide
+### 1. CAPACITACIÓN del Espermatozoide
 
-**Ocurre en tracto reproductivo femenino (Ãºtero y trompa)**
+**Ocurre en tracto reproductivo femenino (útero y trompa)**
 
-**DuraciÃ³n:** 6-8 horas
+**Duración:** 6-8 horas
 
 **Cambios:**
 ```
-â†’ RemociÃ³n de proteÃ­nas y glicoproteÃ­nas de superficie
-â†’ ModificaciÃ³n de membrana plasmÃ¡tica
-â†’ â†‘ Permeabilidad a CaÂ²âº
-â†’ â†‘ Motilidad (hiperactivaciÃ³n)
-â†’ Capacidad para realizar reacciÃ³n acrosÃ³mica
+→ Remoción de proteínas y glicoproteínas de superficie
+→ Modificación de membrana plasmática
+→ ↑ Permeabilidad a Ca²⁺
+→ ↑ Motilidad (hiperactivación)
+→ Capacidad para realizar reacción acrosómica
 ```
 
 ### 2. Viabilidad de Gametos
 
 ```
 Espermatozoide: viable 48-72h en tracto femenino
-Ovocito secundario: viable 12-24h post-ovulaciÃ³n
+Ovocito secundario: viable 12-24h post-ovulación
 ```
 
 ---
 
-## Proceso de FecundaciÃ³n (6 Pasos)
+## Proceso de Fecundación (6 Pasos)
 
-### PASO 1: PenetraciÃ³n del CÃºmulo OÃ³foro
+### PASO 1: Penetración del Cúmulo Oóforo
 
 ```
 Espermatozoide capacitado
-        â†“
-Atraviesa cÃ©lulas del cÃºmulo expandido
-        â†“
-Hialuronidasa (en acrosoma) degrada Ã¡cido hialurÃ³nico
-        â†“
-Espermatozoide alcanza zona pelÃºcida
+        ↓
+Atraviesa células del cúmulo expandido
+        ↓
+Hialuronidasa (en acrosoma) degrada ácido hialurónico
+        ↓
+Espermatozoide alcanza zona pelúcida
 ```
 
-### PASO 2: UniÃ³n y PenetraciÃ³n de Zona PelÃºcida
+### PASO 2: Unión y Penetración de Zona Pelúcida
 
-**Zona pelÃºcida:** Capa glicoproteica (ZP1, ZP2, ZP3)
+**Zona pelúcida:** Capa glicoproteica (ZP1, ZP2, ZP3)
 
 ```
 Cabeza del espermatozoide se une a ZP3
-        â†“
-REACCIÃ“N ACROSÃ“MICA:
-â†’ Exocitosis del acrosoma
-â†’ LiberaciÃ³n de enzimas hidrolÃ­ticas:
+        ↓
+REACCIÓN ACROSÓMICA:
+→ Exocitosis del acrosoma
+→ Liberación de enzimas hidrolíticas:
   - Acrosina
   - Hialuronidasa
   - Esterasas
-        â†“
-DigestiÃ³n de zona pelÃºcida
-        â†“
-Espermatozoide penetra zona pelÃºcida
+        ↓
+Digestión de zona pelúcida
+        ↓
+Espermatozoide penetra zona pelúcida
 ```
 
-### PASO 3: FusiÃ³n de Membranas
+### PASO 3: Fusión de Membranas
 
 ```
-Membrana plasmÃ¡tica del espermatozoide
+Membrana plasmática del espermatozoide
         +
-Membrana plasmÃ¡tica del ovocito
-        â†“
-FUSIÃ“N
-        â†“
+Membrana plasmática del ovocito
+        ↓
+FUSIÓN
+        ↓
 Contenido del espermatozoide entra al ovocito
 ```
 
-### PASO 4: ActivaciÃ³n del Ovocito (Onda de CaÂ²âº)
+### PASO 4: Activación del Ovocito (Onda de Ca²⁺)
 
 ```
-FusiÃ³n de membranas
-        â†“
-â†‘â†‘ CaÂ²âº intracelular (ondas oscilatorias)
-        â†“
-ACTIVACIÃ“N DEL OVOCITO:
-â†’ Reinicio de meiosis II
-â†’ Exocitosis de grÃ¡nulos corticales
+Fusión de membranas
+        ↓
+↑↑ Ca²⁺ intracelular (ondas oscilatorias)
+        ↓
+ACTIVACIÓN DEL OVOCITO:
+→ Reinicio de meiosis II
+→ Exocitosis de gránulos corticales
 ```
 
-### PASO 5: ReacciÃ³n Cortical (Bloqueo de Polispermia)
+### PASO 5: Reacción Cortical (Bloqueo de Polispermia)
 
 ```
-GrÃ¡nulos corticales (vesÃ­culas) se fusionan con membrana
-        â†“
+Gránulos corticales (vesículas) se fusionan con membrana
+        ↓
 Liberan enzimas al espacio perivitelino
-        â†“
-Modifican proteÃ­nas ZP2 y ZP3
-        â†“
-"ENDURECIMIENTO" de zona pelÃºcida
-        â†“
+        ↓
+Modifican proteínas ZP2 y ZP3
+        ↓
+"ENDURECIMIENTO" de zona pelúcida
+        ↓
 BLOQUEO DE POLISPERMIA
-(previene entrada de mÃ¡s espermatozoides)
+(previene entrada de más espermatozoides)
 ```
 
-**RÃ¡pido:** Pocos segundos post-fusiÃ³n
+**Rápido:** Pocos segundos post-fusión
 
-### PASO 6: CompletaciÃ³n de Meiosis II
+### PASO 6: Completación de Meiosis II
 
 ```
-ActivaciÃ³n por CaÂ²âº
-        â†“
+Activación por Ca²⁺
+        ↓
 Ovocito completa Meiosis II
-        â†“
-DivisiÃ³n asimÃ©trica:
-â†’ Ã“VULO maduro (haploide n, con casi todo el citoplasma)
-â†’ Segundo corpÃºsculo polar (degenera)
+        ↓
+División asimétrica:
+→ ÓVULO maduro (haploide n, con casi todo el citoplasma)
+→ Segundo corpúsculo polar (degenera)
 ```
 
 ---
 
-## FormaciÃ³n del Cigoto
+## Formación del Cigoto
 
 ```
 Espermatozoide penetra completamente
-        â†“
+        ↓
 Flagelo y mitocondrias se degradan
-        â†“
-NÃºcleo del espermatozoide se DESCONDENSA
-NÃºcleo del Ã³vulo presente
-        â†“
-FormaciÃ³n de PRONÃšCLEOS (envolturas nucleares):
-â†’ PronÃºcleo masculino (n)
-â†’ PronÃºcleo femenino (n)
-        â†“
+        ↓
+Núcleo del espermatozoide se DESCONDENSA
+Núcleo del óvulo presente
+        ↓
+Formación de PRONÚCLEOS (envolturas nucleares):
+→ Pronúcleo masculino (n)
+→ Pronúcleo femenino (n)
+        ↓
 Espermatozoide aporta CENTROSOMA (COMT)
-        â†“
-COMT organiza microtÃºbulos
-        â†“
-DNA se REPLICA en ambos pronÃºcleos (S)
-(ahora cada pronÃºcleo tiene DNA duplicado)
-        â†“
-PronÃºcleos migran y se ACERCAN (singamia)
-        â†“
+        ↓
+COMT organiza microtúbulos
+        ↓
+DNA se REPLICA en ambos pronúcleos (S)
+(ahora cada pronúcleo tiene DNA duplicado)
+        ↓
+Pronúcleos migran y se ACERCAN (singamia)
+        ↓
 Envolturas nucleares se DESINTEGRAN
-        â†“
+        ↓
 Cromosomas maternos y paternos se MEZCLAN
-        â†“
-Se alinean en placa metafÃ¡sica
-        â†“
-PRIMERA DIVISIÃ“N MITÃ“TICA
-        â†“
-CIGOTO diploide (2n = 46) con 2 cÃ©lulas
-        â†“
-EMBRIÃ“N (desarrollo continÃºa)
+        ↓
+Se alinean en placa metafásica
+        ↓
+PRIMERA DIVISIÓN MITÓTICA
+        ↓
+CIGOTO diploide (2n = 46) con 2 células
+        ↓
+EMBRIÓN (desarrollo continúa)
 ```
 
 ---
 
-## Desarrollo Post-FecundaciÃ³n
+## Desarrollo Post-Fecundación
 
 ```
-DÃ­a 0: FecundaciÃ³n (ampolla)
-        â†“
-DÃ­a 1: Cigoto 2 cÃ©lulas
-        â†“
-DÃ­a 2: 4 cÃ©lulas
-        â†“
-DÃ­a 3: 8-16 cÃ©lulas (mÃ³rula)
-        â†“ (viajando por trompa)
-DÃ­a 4: Blastocisto temprano (llega a Ãºtero)
-        â†“
-DÃ­a 5-6: Blastocisto expandido
-        â†“
-DÃ­a 6-7: IMPLANTACIÃ“N en endometrio
-        â†“
+Día 0: Fecundación (ampolla)
+        ↓
+Día 1: Cigoto 2 células
+        ↓
+Día 2: 4 células
+        ↓
+Día 3: 8-16 células (mórula)
+        ↓ (viajando por trompa)
+Día 4: Blastocisto temprano (llega a útero)
+        ↓
+Día 5-6: Blastocisto expandido
+        ↓
+Día 6-7: IMPLANTACIÓN en endometrio
+        ↓
 Embarazo establecido
 ```
 
 ---
 
-# ðŸŒ± IMPORTANCIA DE LA SALUD REPRODUCTIVA
+# 🌱 IMPORTANCIA DE LA SALUD REPRODUCTIVA
 
-## Datos EpidemiolÃ³gicos (Chile):
+## Datos Epidemiológicos (Chile):
 
 ```
-â†’ Edad promedio inicio actividad sexual: 16 aÃ±os
-â†’ 17% de jÃ³venes sexualmente activos reportan embarazo no planificado
-â†’ Mayor incidencia en grupos socioeconÃ³micos bajos (21.6%)
+→ Edad promedio inicio actividad sexual: 16 años
+→ 17% de jóvenes sexualmente activos reportan embarazo no planificado
+→ Mayor incidencia en grupos socioeconómicos bajos (21.6%)
 ```
 
 ## Objetivos OMS para 2030:
 
 ```
-â†’ Acceso universal a servicios de salud sexual y reproductiva
-â†’ PlanificaciÃ³n familiar
-â†’ InformaciÃ³n y educaciÃ³n sexual
-â†’ IntegraciÃ³n de salud reproductiva en programas nacionales
+→ Acceso universal a servicios de salud sexual y reproductiva
+→ Planificación familiar
+→ Información y educación sexual
+→ Integración de salud reproductiva en programas nacionales
 ```
 
 ---
 
-# ðŸ’ª RECOMENDACIONES FINALES
+# 💪 RECOMENDACIONES FINALES
 
 ## Para Mantener Salud Reproductiva:
 
 ```
-âœ“ Vida sana (ejercicio, nutriciÃ³n adecuada)
-âœ“ Evitar tabaco, alcohol excesivo, drogas
-âœ“ Control mÃ©dico periÃ³dico
-âœ“ EducaciÃ³n sexual basada en evidencia
-âœ“ Uso de mÃ©todos anticonceptivos si no se desea embarazo
-âœ“ DetecciÃ³n temprana de ITS
-âœ“ Manejo del estrÃ©s
-âœ“ Higiene adecuada
+✓ Vida sana (ejercicio, nutrición adecuada)
+✓ Evitar tabaco, alcohol excesivo, drogas
+✓ Control médico periódico
+✓ Educación sexual basada en evidencia
+✓ Uso de métodos anticonceptivos si no se desea embarazo
+✓ Detección temprana de ITS
+✓ Manejo del estrés
+✓ Higiene adecuada
 ```
 
 ---
 
-# ðŸ“Š RESUMEN DE CONCEPTOS CLAVE
+# 📊 RESUMEN DE CONCEPTOS CLAVE
 
 ## Sistema Endocrino:
 
 | Concepto | Detalle |
 |----------|---------|
-| **FunciÃ³n** | RegulaciÃ³n hormonal de mÃºltiples sistemas |
+| **Función** | Regulación hormonal de múltiples sistemas |
 | **Homeostasis** | Mantenimiento del equilibrio corporal |
 | **Feedback negativo** | Principal mecanismo regulatorio |
 | **Eje H-H** | Centro integrador neuroendocrino |
@@ -2784,78 +2784,87 @@ Embarazo establecido
 
 | Concepto | Detalle |
 |----------|---------|
-| **EspermatogÃ©nesis** | 72 dÃ­as, continua, no cÃ­clica |
+| **Espermatogénesis** | 72 días, continua, no cíclica |
 | **Testosterona intratesticular** | Debe ser 100x mayor que circulante |
-| **CÃ©lulas de Sertoli** | Soporte a espermatogÃ©nesis |
-| **CÃ©lulas de Leydig** | ProducciÃ³n de testosterona |
+| **Células de Sertoli** | Soporte a espermatogénesis |
+| **Células de Leydig** | Producción de testosterona |
 
 ## Sistema Reproductor Femenino:
 
 | Concepto | Detalle |
 |----------|---------|
-| **Ciclo menstrual** | 28 dÃ­as (promedio), cÃ­clico |
-| **OvulaciÃ³n** | DÃ­a 14, libera ovocito secundario |
-| **Fase lÃºtea** | Constante (~14 dÃ­as) |
-| **Endometrio** | Se prepara para implantaciÃ³n |
+| **Ciclo menstrual** | 28 días (promedio), cíclico |
+| **Ovulación** | Día 14, libera ovocito secundario |
+| **Fase lútea** | Constante (~14 días) |
+| **Endometrio** | Se prepara para implantación |
 
 ---
 
-# âœ… CHECKLIST DE ESTUDIO
+# ✅ CHECKLIST DE ESTUDIO
 
-## Â¿Dominas estos conceptos?
+## ¿Dominas estos conceptos?
 
 ### Sistema Endocrino:
-- [ ] Diferencia entre hormonas hidrofÃ­licas y liposolubles
+- [ ] Diferencia entre hormonas hidrofílicas y liposolubles
 - [ ] Mecanismo de feedback negativo
-- [ ] Eje hipotÃ¡lamo-hipÃ³fisis-tiroides
-- [ ] Eje hipotÃ¡lamo-hipÃ³fisis-adrenal
+- [ ] Eje hipotálamo-hipófisis-tiroides
+- [ ] Eje hipotálamo-hipófisis-adrenal
 - [ ] Funciones de cortisol y aldosterona
 - [ ] Zona glomerulosa, fascicular, reticular
 
-### DivisiÃ³n Celular:
+### División Celular:
 - [ ] Mitosis vs meiosis
 - [ ] Fases de meiosis I (especialmente profase I)
-- [ ] Entrecruzamiento y variabilidad genÃ©tica
-- [ ] ReducciÃ³n cromosÃ³mica
+- [ ] Entrecruzamiento y variabilidad genética
+- [ ] Reducción cromosómica
 
 ### Sistema Reproductor Masculino:
-- [ ] Estructura del testÃ­culo (2 compartimentos)
-- [ ] Fases de espermatogÃ©nesis
-- [ ] EspermiogÃ©nesis y estructura del espermatozoide
-- [ ] Eje hipotÃ¡lamo-hipÃ³fisis-testicular
-- [ ] Problema con testosterona exÃ³gena
+- [ ] Estructura del testículo (2 compartimentos)
+- [ ] Fases de espermatogénesis
+- [ ] Espermiogénesis y estructura del espermatozoide
+- [ ] Eje hipotálamo-hipófisis-testicular
+- [ ] Problema con testosterona exógena
 - [ ] Funciones del tracto reproductor
-- [ ] FisiologÃ­a de la erecciÃ³n
+- [ ] Fisiología de la erección
 
 ### Sistema Reproductor Femenino:
-- [ ] Ciclo vital del folÃ­culo ovÃ¡rico
-- [ ] Modelo "dos cÃ©lulas, dos gonadotropinas"
-- [ ] RegulaciÃ³n del ciclo menstrual
-- [ ] Diferencia entre fase folicular y lÃºtea
+- [ ] Ciclo vital del folículo ovárico
+- [ ] Modelo "dos células, dos gonadotropinas"
+- [ ] Regulación del ciclo menstrual
+- [ ] Diferencia entre fase folicular y lútea
 - [ ] Ciclo uterino (proliferativa vs secretora)
-- [ ] Proceso de ovulaciÃ³n
-- [ ] FunciÃ³n del cuerpo lÃºteo
+- [ ] Proceso de ovulación
+- [ ] Función del cuerpo lúteo
 
-### FecundaciÃ³n:
-- [ ] CapacitaciÃ³n espermÃ¡tica
-- [ ] 6 pasos de la fecundaciÃ³n
-- [ ] ReacciÃ³n acrosÃ³mica
+### Fecundación:
+- [ ] Capacitación espermática
+- [ ] 6 pasos de la fecundación
+- [ ] Reacción acrosómica
 - [ ] Bloqueo de polispermia
-- [ ] FormaciÃ³n del cigoto
+- [ ] Formación del cigoto
 
 ---
 
 <div align="center">
 
-# ðŸŽ“ FIN DEL APUNTE
+# 🎓 FIN DEL APUNTE
 
-**FisiologÃ­a I - QYF213**  
+**Fisiología I - QYF213**  
 Dr. Ricardo Ceriani  
-Universidad de ValparaÃ­so
+Universidad de Valparaíso
 
 ---
 
-ðŸ’¡ **Consejo de estudio:**  
+💡 **Consejo de estudio:**  
 Repasa los diagramas, entiende los mecanismos, no solo memorices.  
-La fisiologÃ­a es lÃ³gica, una cosa lleva a la otra.
+La fisiología es lógica, una cosa lleva a la otra.
 
+📚 **Bibliografía recomendada:**  
+Berne & Levy - Fisiología, 7ª edición  
+Capítulos 37, 40, 41, 42 | Páginas 758-797
+
+---
+
+⭐ **¡Éxito en tu estudio!** ⭐
+
+</div>
